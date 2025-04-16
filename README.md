@@ -1,16 +1,15 @@
-## Hi there 👋
+ Meu nome é Yasmin
+=======================
 
-<!--
-**YasmimLoppes/YasmimLoppes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Seja Bem Vindo (a) ao meu Github
+-------------------------------------
 
-Here are some ideas to get you started:
+Meu nome é Yasmin Lopes, moro em São Vicente - SP Litoral Paulista Formação em andamento: Análise e Desenvolvimento de Sistemas Cursos e linguagens em andamento: C,C++,C#,Python e Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍 Estou baseado no Brasil
+
+### Skills
+
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+</p>
