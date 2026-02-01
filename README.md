@@ -1,16 +1,39 @@
- Meu nome é Yasmin
-=======================
+# Olá! Eu sou a Yasmin Lopes 👋
 
-Olá! Seja Bem Vindo (a) ao meu Github
--------------------------------------
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNISANTA, com foco em me tornar uma **Engenheira de Dados**.
 
-Meu nome é Yasmin Lopes, moro em São Vicente - SP 
+### 🚀 Sobre Mim
+* [cite_start]🎓 Atualmente no 3º semestre, mergulhando em Modelagem de Dados e SQL[cite: 1, 12].
+* [cite_start]🎯 **Objetivo:** Transição de carreira com foco em Engenharia de Dados e Software[cite: 3].
+* [cite_start]📚 **Mentalidade:** Sou uma entusiasta da cultura "Agir rápido, aprender rápido" e busco ser uma "esponja" para absorver novos conhecimentos técnicos todos os dias[cite: 4, 7].
 
-FORMAÇÃO ACADÊMICA: Análise e Desenvolvimento de Sistemas (ADS)
-Universidade Santa Cecília (UNISANTA) | Conclusão prevista: Junho de 2027
-* Destaques: Atualmente no 3º semestre. Foco acadêmico em Modelagem de Dados, Estrutura de Dados, Lógica de Programação e Sistemas Gerenciadores de Banco de Dados.
+### 🛠️ No que estou focada agora:
+* [cite_start]**SQL & Bancos de Dados:** Praticando consultas e estruturação de tabelas diariamente.
+* [cite_start]**Lógica de Programação:** Resolvendo desafios em plataformas como LeetCode para fortalecer o raciocínio[cite: 35].
+* [cite_start]**Documentação:** Registro cada nova descoberta técnica, transformando erros de sintaxe em guias de aprendizado[cite: 36].
 
-* 🌍 Estou baseado no Brasil
+### 📊 Minha Evolução (Demonstração Técnica)
+[cite_start]Abaixo, um exemplo do script SQL que utilizo para organizar meu progresso[cite: 19]:
 
+```sql
+-- Criando uma tabela para organizar minha evolução
+CREATE TABLE Evolucao_Carreira (
+    Habilidade VARCHAR(50),
+    Nivel_Conhecimento VARCHAR(20)
+);
 
+-- Inserindo meu progresso atual
+INSERT INTO Evolucao_Carreira VALUES ('Lógica de Programação', 'Em Construção');
+INSERT INTO Evolucao_Carreira VALUES ('SQL Básico', 'Iniciante');
 
+-- Consultando os dados
+SELECT * FROM Evolucao_Carreira;
+
+📈 Minhas Metas
+[ ] Dominar manipulação avançada de dados.
+
+[ ] Iniciar pós-graduações em Engenharia de Dados e Software.
+
+[ ] Contribuir para projetos que gerem impacto real através da tecnologia.
+
+📫 Como me encontrar: [https://www.linkedin.com/in/yasmim-loppes/]
