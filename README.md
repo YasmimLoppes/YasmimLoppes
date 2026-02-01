@@ -36,4 +36,4 @@ SELECT * FROM Evolucao_Carreira;
 
 [ ] Contribuir para projetos que gerem impacto real através da tecnologia.
 
-📫 Como me encontrar:[Meu LinkedIn](https://www.linkedin.com/in/yasmim-loppes/)
+📫 Como me encontrar:(https://www.linkedin.com/in/yasmim-loppes/)
