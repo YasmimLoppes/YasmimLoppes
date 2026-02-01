@@ -38,7 +38,4 @@ SELECT * FROM Evolucao_Carreira;
 
 📫 Como me encontrar:(https://www.linkedin.com/in/yasmim-loppes/)
 
----
-### 📂 Meu Laboratório de Estudos
-Acompanhe meu progresso diário em SQL e Lógica aqui: 
-👉 [**aprendizado-dados-**](https://github.com/YasmimLoppes/aprendizado-dados-)
+
