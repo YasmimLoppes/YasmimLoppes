@@ -8,7 +8,9 @@
 * [cite_start]📚 **Mentalidade:** Sou uma entusiasta da cultura "Agir rápido, aprender rápido" e busco ser uma "esponja" para absorver novos conhecimentos técnicos todos os dias[cite: 4, 7].
 
 ### 📊 Minhas Estatísticas
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
 
 ### 🛠️ No que estou focada agora:
 * [cite_start]**SQL & Bancos de Dados:** Praticando consultas e estruturação de tabelas diariamente.
