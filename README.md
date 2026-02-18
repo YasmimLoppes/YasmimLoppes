@@ -9,7 +9,7 @@
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas de Yasmim](https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas da Yasmim](https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=dracula&count_private=true)
 
 ### 🛠️ No que estou focada agora:
 * [cite_start]**SQL & Bancos de Dados:** Praticando consultas e estruturação de tabelas diariamente.
