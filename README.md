@@ -1,6 +1,6 @@
 # Olá! Eu sou a Yasmin Lopes 👋
 
-*Aspirante à Engenharia de Dados | Cursando Análise e Desenvolvimento de Sistemas (ADS)* 
+**Aspirante à Engenharia de Dados | Cursando Análise e Desenvolvimento de Sistemas (ADS)**
 
 ### 🚀 Sobre Mim
 * [cite_start]🎓 Atualmente no 3º semestre, mergulhando em Modelagem de Dados e SQL[cite: 1, 12].
