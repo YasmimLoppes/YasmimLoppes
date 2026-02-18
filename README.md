@@ -7,10 +7,10 @@
 * [cite_start]🎯 **Objetivo:** Transição de carreira com foco em Engenharia de Dados e Software[cite: 3].
 * [cite_start]📚 **Mentalidade:** Sou uma entusiasta da cultura "Agir rápido, aprender rápido" e busco ser uma "esponja" para absorver novos conhecimentos técnicos todos os dias[cite: 4, 7].
 
+
 ### 📊 Minhas Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</p>
+
+![Estatísticas de Yasmim](https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ### 🛠️ No que estou focada agora:
 * [cite_start]**SQL & Bancos de Dados:** Praticando consultas e estruturação de tabelas diariamente.
