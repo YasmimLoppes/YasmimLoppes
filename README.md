@@ -60,4 +60,3 @@ SELECT * FROM Evolucao_Carreira;
 * [Email](mailto:yasmim_loppes@icloud.com)
 
 ---
-
