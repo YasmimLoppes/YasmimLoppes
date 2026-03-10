@@ -47,7 +47,7 @@ INSERT INTO Evolucao_Carreira VALUES ('SQL / Bancos de Dados', 'Intermediário')
 -- Consultando os dados
 SELECT * FROM Evolucao_Carreira;
 
-### 📬 Contato
-
-* *LinkedIn:* https://www.linkedin.com/in/yasmim-loppes/
-* *Email:* yasmim_loppes@icloud.com
+📈 Minhas Metas
+* [ ] Dominar manipulação avançada de dados com Python (Pandas/Pyspark).
+* [ ] Iniciar certificações em Cloud (AWS Practitioner).
+* [ ] Contribuir para projetos que gerem impacto real através dos dados.
