@@ -52,7 +52,8 @@ SELECT * FROM Evolucao_Carreira;
 * [ ] Iniciar certificações em Cloud (AWS Practitioner).
 * [ ] Contribuir para projetos que gerem impacto real através dos dados.
 
-📫 Como me encontrar:
-📂 Meu Laboratório de Estudos
-Acompanhe meu progresso diário em SQL e Engenharia de Dados:
-👉 aprendizado-dados
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmim-loppes/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmim_loppes@icloud.com)
+
+---
