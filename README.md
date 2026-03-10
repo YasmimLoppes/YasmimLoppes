@@ -57,6 +57,6 @@ SELECT * FROM Evolucao_Carreira;
 ### 📬 Contato
 
 * *LinkedIn:* [yasmim-loppes](https://www.linkedin.com/in/yasmim-loppes/)
-* *Email:* [yasmim_loppes@icloud.com](mailto:yasmim_loppes@icloud.com)
+* *Email:* yasmim_loppes@icloud.com
 
 ---
