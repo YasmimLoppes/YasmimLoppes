@@ -1,19 +1,37 @@
 # Olá! Eu sou a Yasmin Lopes 👋
 
-**Análise e Desenvolvimento de Sistemas | Aspirante à Engenharia de Dados | SQL | Python | Estudante de Tecnologia**
+![ADS](https://img.shields.io/badge/Status-Estudante-blue?style=for-the-badge)
+![Foco](https://img.shields.io/badge/Foco-Engenharia%20de%20Dados-orange?style=for-the-badge)
+
+Análise e Desenvolvimento de Sistemas | Aspirante à Engenharia de Dados | SQL | Python | Cloud (AWS)
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ### 🚀 Sobre Mim
-* [cite_start]🎓 Atualmente no 3º semestre, mergulhando em Modelagem de Dados e SQL[cite: 1, 12].
-* [cite_start]🎯 **Objetivo:** Transição de carreira com foco em Engenharia de Dados e Software[cite: 3].
-* [cite_start]📚 **Mentalidade:** Sou uma entusiasta da cultura "Agir rápido, aprender rápido" e busco ser uma "esponja" para absorver novos conhecimentos técnicos todos os dias[cite: 4, 7].
 
-### 🛠️ No que estou focada agora:
-* [cite_start]**SQL & Bancos de Dados:** Praticando consultas e estruturação de tabelas diariamente.
-* [cite_start]**Lógica de Programação:** Resolvendo desafios em plataformas como LeetCode para fortalecer o raciocínio[cite: 35].
-* [cite_start]**Documentação:** Registro cada nova descoberta técnica, transformando erros de sintaxe em guias de aprendizado[cite: 36].
+* 🎓 *Atualmente no 3º semestre*, mergulhando em Modelagem de Dados e SQL para construir bases sólidas em arquitetura de dados.
+* 🎯 *Objetivo:* Transição de carreira com foco em Engenharia de Dados, transformando dados brutos em soluções inteligentes e escaláveis.
+* 📚 *Mentalidade:* Entusiasta da cultura "Agir rápido, aprender rápido". Sou uma "esponja" para absorver novos conhecimentos técnicos todos os dias.
+
+### ⚙️ No que estou focada agora:
+
+* *SQL & Bancos de Dados:* Praticando consultas complexas, joins e estruturação de tabelas diariamente.
+* *Lógica de Programação:* Resolvendo desafios em plataformas como LeetCode para fortalecer o raciocínio lógico.
+* *Documentação:* Registro cada nova descoberta técnica, transformando erros de sintaxe em guias de aprendizado práticos.
+
+---
 
 ### 📊 Minha Evolução (Demonstração Técnica)
-[cite_start]Abaixo, um exemplo do script SQL que utilizo para organizar meu progresso[cite: 19]:
+
+Abaixo, um exemplo do script SQL que utilizo para organizar meu progresso:
 
 ```sql
 -- Criando uma tabela para organizar minha evolução
@@ -23,24 +41,18 @@ CREATE TABLE Evolucao_Carreira (
 );
 
 -- Inserindo meu progresso atual
-INSERT INTO Evolucao_Carreira VALUES ('Lógica de Programação', 'Em Construção');
-INSERT INTO Evolucao_Carreira VALUES ('SQL Básico', 'Iniciante');
+INSERT INTO Evolucao_Carreira VALUES ('Lógica de Programação', 'Em evolução');
+INSERT INTO Evolucao_Carreira VALUES ('SQL / Bancos de Dados', 'Intermediário');
 
 -- Consultando os dados
 SELECT * FROM Evolucao_Carreira;
 
 📈 Minhas Metas
-[ ] Dominar manipulação avançada de dados.
+* [ ] Dominar manipulação avançada de dados com Python (Pandas/Pyspark).
+* [ ] Iniciar certificações em Cloud (AWS Practitioner).
+* [ ] Contribuir para projetos que gerem impacto real através dos dados.
 
-[ ] Iniciar pós-graduações em Engenharia de Dados e Software.
-
-[ ] Contribuir para projetos que gerem impacto real através da tecnologia.
-
-📫 Como me encontrar:(https://www.linkedin.com/in/yasmim-loppes/)
-
----
-### 📂 Meu Laboratório de Estudos
-Acompanhe meu progresso diário em SQL e Lógica aqui: 
-👉 [**aprendizado-dados-**](https://github.com/YasmimLoppes/aprendizado-dados-)
-
-
+📫 Como me encontrar:
+📂 Meu Laboratório de Estudos
+Acompanhe meu progresso diário em SQL e Engenharia de Dados:
+👉 aprendizado-dados
