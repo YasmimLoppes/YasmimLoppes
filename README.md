@@ -55,13 +55,6 @@
 * **Learning Journey:** Daily technical documentation of Data Engineering and SQL studies.
 * **Data Storytelling:** Interactive dashboards for decision-making built with Python and Streamlit.
 
-<br />
-
-### 🚀 Featured Data Projects
-* **Monitoring Pipeline:** Automated data extraction via Web Scraping with structured storage in **AWS S3**.
-* **Learning Journey:** Daily technical documentation of Data Engineering and SQL studies.
-* **Data Storytelling:** Interactive dashboards for decision-making built with Python and Streamlit.
-
 ---
 ### 📫 Vamos nos conectar?
 
