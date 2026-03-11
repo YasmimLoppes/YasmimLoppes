@@ -46,5 +46,9 @@ def transform_data(self):
     return df
 
 ```
+📫 Contato
+  LinkedIn: www.linkedin.com/in/yasmim-loppes/  
+  Email: yasmim_loppes@icloud.com
+  GitHub: www.github.com/yasmimloppes    
 
 
