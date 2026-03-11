@@ -29,25 +29,20 @@ Análise e Desenvolvimento de Sistemas | Aspirante à Engenharia de Dados | SQL 
 
 ---
 
-### 📊 Minha Evolução (Demonstração Técnica)
+### 📊 Demonstração Técnica Recente
+Abaixo, um trecho do pipeline que desenvolvi para monitoramento de hardware, utilizando POO e Pandas:
 
-Abaixo, um exemplo do script SQL que utilizo para organizar meu progresso:
+```python
+# Trecho do pipeline de extração e limpeza (Camada Silver)
+def transform_data(self):
+    df = pd.DataFrame(self.raw_data)
+    
+    # Limpeza de Preço com Regex
+    df['price_numeric'] = df['price'].apply(lambda x: float(re.sub(r'[R\$\s\.]', '', x).replace(',', '.')))
+    
+    # Categorização Automática
+    df['category'] = df['item'].apply(lambda x: 'GPU' if 'GPU' in x else 'CPU')
+    
+    return df
 
-```sql
--- Criando uma tabela para organizar minha evolução
-CREATE TABLE Evolucao_Carreira (
-    Habilidade VARCHAR(50),
-    Nivel_Conhecimento VARCHAR(20)
-);
 
--- Inserindo meu progresso atual
-INSERT INTO Evolucao_Carreira VALUES ('Lógica de Programação', 'Em evolução');
-INSERT INTO Evolucao_Carreira VALUES ('SQL / Bancos de Dados', 'Intermediário');
-
--- Consultando os dados
-SELECT * FROM Evolucao_Carreira;
-
-📈 Minhas Metas
-* [ ] Dominar manipulação avançada de dados com Python (Pandas/Pyspark).
-* [ ] Iniciar certificações em Cloud (AWS Practitioner).
-* [ ] Contribuir para projetos que gerem impacto real através dos dados.
