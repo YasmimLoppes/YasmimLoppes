@@ -36,9 +36,8 @@
 ### 📈 System Activity & Metrics
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&area=true&hide_border=true&bg_color=00000000" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
 </p>
-
 ---
 
 ### 🚀 Data Journey & Projects
