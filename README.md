@@ -1,3 +1,4 @@
+
 <div align="center">
   
   # ⚡ Yasmin Lopes | Data Engineer in the making
@@ -5,10 +6,10 @@
   <img src="https://i.pinimg.com/originals/82/3a/00/823a0026aa600020e908637376722363.gif" width="100%" alt="Data Server Art" />
 
   ### 🏗️ Systems & Data Architectures
-  **3º Semestre - Análise e Desenvolvimento de Sistemas (ADS)**
+  **3rd Semester - Analysis and Systems Development (ADS)**
 </div>
 
----
+<br />
 
 ### 🛠️ Data Pipeline Flow (ETL/ELT)
 
@@ -20,7 +21,7 @@
   <img src="https://img.shields.io/badge/TRANSFORM-SQL_/_Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
----
+<br />
 
 ### 💻 Infrastructure & Toolbox
 
@@ -31,20 +32,12 @@
 | **Engineering** | `Apache Airflow`, `Data Pipelines`, `Web Scraping` |
 | **Data Viz** | `Streamlit`, `Power BI`, `Plotly` |
 
----
+<br />
 
 ### 📈 System Activity & Metrics
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
-</p>
----
-
-### 🚀 Data Journey & Projects
-* **Pipeline de Monitoramento:** Extração via Web Scraping com armazenamento em **AWS S3**.
-* **Jornada de Aprendizado:** Documentação técnica de estudos em Engenharia de Dados e SQL.
-* **Storytelling de Dados:** Dashboards interativos criados com Python e Streamlit.
-
+  <img src="
 ---
 ### 📫 Vamos nos conectar?
 
