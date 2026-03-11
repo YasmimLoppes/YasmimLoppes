@@ -40,10 +40,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=0056b3&text_color=ffffff&bar_color=0056b3" height="165" />
-</p>
+### 📊 GitHub Intelligence
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=0056b3&text_color=ffffff&icon_color=0056b3&hide_border=true&include_all_commits=true&count_private=true" alt="Yasmin Lopes GitHub Stats" height="180px" />
+</div>
 <br />
 
 ### 🚀 Featured Data Projects
