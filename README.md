@@ -36,6 +36,10 @@
 
 ### 📈 System Intelligence & Metrics
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&order=5&hide_border=true&bg_color=00000000" width="100%" />
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=0056b3&text_color=ffffff&icon_color=0056b3&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   
