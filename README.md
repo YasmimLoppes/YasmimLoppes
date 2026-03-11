@@ -46,7 +46,6 @@
 * **Storytelling de Dados:** Dashboards interativos criados com Python e Streamlit.
 
 ---
-
 ### 📫 Vamos nos conectar?
 
  * 📫 *LinkedIn:* www.linkedin.com/in/yasmim-loppes/
