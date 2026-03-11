@@ -34,18 +34,20 @@
 
 <br />
 
-### 📈 System Activity & Metrics
+### 📈 System Intelligence & Metrics
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=0056b3&text_color=ffffff&icon_color=0056b3&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=0056b3&text_color=ffffff&bar_color=0056b3&hide_border=true" width="42%" />
 </p>
 
-### 📊 GitHub Intelligence
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=0056b3&text_color=ffffff&icon_color=0056b3&hide_border=true&include_all_commits=true&count_private=true" alt="Yasmin Lopes GitHub Stats" height="180px" />
-</div>
 <br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=transparent&hide_border=true&stroke=0056b3&ring=0056b3&fire=0056b3&currStreakLabel=0056b3&sideLabels=ffffff&dates=ffffff" width="90%" />
+</p>
+---
 
 ### 🚀 Featured Data Projects
 * **Monitoring Pipeline:** Automated data extraction via Web Scraping with structured storage in **AWS S3**.
