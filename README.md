@@ -1,52 +1,53 @@
-# Olá! Eu sou a Yasmin Lopes 👋
+# ⚡ Yasmin Lopes | Data Engineering Student
 
-![ADS](https://img.shields.io/badge/Status-Estudante-blue?style=for-the-badge)
-![Foco](https://img.shields.io/badge/Foco-Engenharia%20de%20Dados-orange?style=for-the-badge)
-
-Análise e Desenvolvimento de Sistemas | Aspirante à Engenharia de Dados | SQL | Python | Cloud (AWS)
+### 🏗️ Building reliable data pipelines & architectures
+**3º Semestre - Análise e Desenvolvimento de Sistemas (ADS)**
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🛠️ Data Architecture & Pipeline Flow
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Extraction-Python%20%2F%20Scraping-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <span> ➔ </span>
+  <img src="https://img.shields.io/badge/Storage-AWS%20S3%20%2F%20PostgreSQL-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <span> ➔ </span>
+  <img src="https://img.shields.io/badge/Transformation-Pandas%20%2F%20SQL-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
 ---
 
-### 🚀 Sobre Mim
+### 💻 Technical Expertise
 
-* 🎓 *Atualmente no 3º semestre*, mergulhando em Modelagem de Dados e SQL para construir bases sólidas em arquitetura de dados.
-* 🎯 *Objetivo:* Transição de carreira com foco em Engenharia de Dados, transformando dados brutos em soluções inteligentes e escaláveis.
-* 📚 *Mentalidade:* Entusiasta da cultura "Agir rápido, aprender rápido". Sou uma "esponja" para absorver novos conhecimentos técnicos todos os dias.
-
-### ⚙️ No que estou focada agora:
-
-* *SQL & Bancos de Dados:* Praticando consultas complexas, joins e estruturação de tabelas diariamente.
-* *Lógica de Programação:* Resolvendo desafios em plataformas como LeetCode para fortalecer o raciocínio lógico.
-* *Documentação:* Registro cada nova descoberta técnica, transformando erros de sintaxe em guias de aprendizado práticos.
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `Python (Pandas, NumPy)`, `SQL`, `Bash` |
+| **Bancos de Dados** | `PostgreSQL`, `MySQL`, `MariaDB` |
+| **Cloud & Infra** | `AWS (S3, Educate)`, `Docker`, `Linux` |
+| **Orquestração & BI** | `Apache Airflow`, `Streamlit`, `Power BI` |
 
 ---
 
-### 📊 Demonstração Técnica Recente
-Abaixo, um trecho do pipeline que desenvolvi para monitoramento de hardware, utilizando POO e Pandas:
+### 🚀 Destaques de Engenharia
+* **Pipeline de Monitoramento:** Extração automatizada de dados via Web Scraping e armazenamento estruturado em **AWS S3**.
+* **Jornada de Aprendizado:** Documentação diária de estudos em Python, SQL e arquitetura de dados.
+* **Storytelling:** Transformação de grandes volumes de dados brutos em Dashboards estratégicos.
 
-```python
-# Trecho do pipeline de extração e limpeza (Camada Silver)
-def transform_data(self):
-    df = pd.DataFrame(self.raw_data)
-    
-    # Limpeza de Preço com Regex
-    df['price_numeric'] = df['price'].apply(lambda x: float(re.sub(r'[R\$\s\.]', '', x).replace(',', '.')))
-    
-    # Categorização Automática
-    df['category'] = df['item'].apply(lambda x: 'GPU' if 'GPU' in x else 'CPU')
-    
-    return df
+---
 
-```
-📫 Contato
+### 📊 GitHub Intelligence
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=tokyonight&hide=html,css" height="150" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
  * 📫 *LinkedIn:* www.linkedin.com/in/yasmim-loppes/
  * 📧 *Email:* yasmim_loppes@icloud.com
  * 💻 *GitHub:* www.github.com/yasmimloppes
+
+*"Dados são o novo petróleo, mas a engenharia é a refinaria."*
+
