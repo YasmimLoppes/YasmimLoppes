@@ -47,8 +47,6 @@ def transform_data(self):
 
 ```
 📫 Contato
-  LinkedIn: www.linkedin.com/in/yasmim-loppes/  
-  Email: yasmim_loppes@icloud.com
-  GitHub: www.github.com/yasmimloppes    
-
-
+ * 📫 *LinkedIn:* www.linkedin.com/in/yasmim-loppes/
+ * 📧 *Email:* yasmim_loppes@icloud.com
+ * 💻 *GitHub:* www.github.com/yasmimloppes
