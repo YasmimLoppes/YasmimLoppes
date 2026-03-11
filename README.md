@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ⚡ Yasmin Lopes | Data Engineer in the making
+  # ⚡ Yasmim Lopes | Data Engineer in the making
   
   <img src="https://i.pinimg.com/originals/82/3a/00/823a0026aa600020e908637376722363.gif" width="100%" alt="Data Server Art" />
 
