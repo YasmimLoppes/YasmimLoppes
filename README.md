@@ -1,4 +1,3 @@
-
 <div align="center">
   
   # ⚡ Yasmim Lopes | Data Engineer in the making
@@ -37,7 +36,26 @@
 ### 📈 System Intelligence & Metrics
 
 <div align="center">
-  <img src="
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=0056b3&text_color=ffffff&icon_color=0056b3&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=0056b3&text_color=ffffff&bar_color=0056b3&hide_border=true" width="42%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0056b3&ring=0056b3&fire=0056b3&currStreakLabel=0056b3&sideLabels=ffffff&dates=ffffff&background=00000000" width="90%" />
+</p>
+
+<br />
+
+### 🚀 Featured Data Projects
+* **Monitoring Pipeline:** Automated data extraction via Web Scraping with structured storage in **AWS S3**.
+* **Learning Journey:** Daily technical documentation of Data Engineering and SQL studies.
+* **Data Storytelling:** Interactive dashboards for decision-making built with Python and Streamlit.
+
+<br />
 
 ### 🚀 Featured Data Projects
 * **Monitoring Pipeline:** Automated data extraction via Web Scraping with structured storage in **AWS S3**.
