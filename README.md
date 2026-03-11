@@ -37,7 +37,20 @@
 ### 📈 System Activity & Metrics
 
 <p align="left">
-  <img src="
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=0056b3&text_color=ffffff&bar_color=0056b3" height="165" />
+</p>
+
+<br />
+
+### 🚀 Featured Data Projects
+* **Monitoring Pipeline:** Automated data extraction via Web Scraping with structured storage in **AWS S3**.
+* **Learning Journey:** Daily technical documentation of Data Engineering and SQL studies.
+* **Data Storytelling:** Interactive dashboards for decision-making built with Python and Streamlit.
+
 ---
 ### 📫 Vamos nos conectar?
 
