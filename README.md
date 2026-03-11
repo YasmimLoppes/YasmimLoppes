@@ -1,15 +1,14 @@
-# ⚡ Yasmin Lopes | Data Engineering Student
-
+# ⚡ Yasmin Lopes | Data Engineer in the making
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=120&section=header&text=Data%20Engineering%20Pipeline&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
-### 🛠️ Systems & Data Architectures
+### 🏗️ Systems & Data Architectures
 **3º Semestre - Análise e Desenvolvimento de Sistemas (ADS)**
 
 ---
 
-### 🏗️ Pipeline Flow (ETL/ELT)
+### 🛠️ Pipeline Flow (ETL/ELT)
 
 <div align="center">
   <img src="https://img.shields.io/badge/INGEST-Python_/_Scraping-0056b3?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,11 +31,24 @@
 
 ---
 
-### 📈 Activity Metrics
+### 📈 System Activity & Metrics
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&count_private=true&title_color=0056b3&text_color=ffffff&icon_color=0056b3" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=0056b3&text_color=ffffff" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&area=true&hide_border=true&bg_color=00000000" width="100%" />
 </p>
+
+<br />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=0056b3&text_color=ffffff" height="165" />
+</p>
+
+---
+
+### 🚀 Destaques de Engenharia
+* **Pipeline de Monitoramento:** Extração automatizada de dados via Web Scraping e armazenamento estruturado em **AWS S3**.
+* **Jornada de Aprendizado:** Documentação diária de estudos em Python, SQL e arquitetura de dados.
+* **Storytelling:** Transformação de grandes volumes de dados brutos em Dashboards estratégicos.
 
 ---
 
