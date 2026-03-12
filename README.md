@@ -9,14 +9,14 @@
 
 <br />
 
-### 🛠️ Data Pipeline Flow (ETL/ELT)
+### 🛠️ Fluxo de Pipeline de Dados (ETL/ELT)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/INGESTÃO-Python_/_Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/INGESTÃO-Python%20/%20Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <span> ➔ </span>
-  <img src="https://img.shields.io/badge/ARMAZENAMENTO-AWS_S3_/_PostgreSQL-0056b3?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARMAZENAMENTO-AWS%20S3%20/%20PostgreSQL-0056b3?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <span> ➔ </span>
-  <img src="https://img.shields.io/badge/TRANSFORMAÇÃO-SQL_/_Pandas-003366?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRANSFORMAÇÃO-SQL%20/%20Pandas-003366?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 <br />
@@ -29,6 +29,31 @@
 | **Nuvem & Infra** | `AWS (S3, Educate)`, `Docker`, `Linux` |
 | **Engenharia** | `Apache Airflow`, `Data Pipelines`, `Web Scraping` |
 | **Data Viz** | `Streamlit`, `Power BI`, `Plotly` |
+
+<br />
+
+### 📈 Inteligência de Sistemas e Métricas
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=0056b3&text_color=ffffff&icon_color=0056b3&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=0056b3&text_color=ffffff&bar_color=0056b3&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0056b3&ring=0056b3&fire=0056b3&currStreakLabel=0056b3&sideLabels=ffffff&dates=ffffff&background=00000000" width="100%" />
+</div>
 
 <br />
 
@@ -55,7 +80,6 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,23,76,2,48,71,1,73,124&height=30&section=footer" width="100%"/>
-  
-  *"Engineering is about making things work. Data Engineering is about making data work for everyone."*
-</div>
+  <img src="
+ 
+
