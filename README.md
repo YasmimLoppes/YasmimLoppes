@@ -21,7 +21,7 @@
 
 <br />
 
-### 💻 Infrastructure & Toolbox (Sua Tabela Original)
+### 💻 Infrastructure & Toolbox
 
 | Domain | Tools |
 | :--- | :--- |
@@ -32,7 +32,7 @@
 
 <br />
 
-### 📈 System Intelligence & Metrics (Seu Dashboard Original)
+### 📈 System Intelligence & Metrics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
@@ -57,16 +57,16 @@
 
 <br />
 
-### 🚀 Featured Data Projects (Seus Textos Originais)
+### 🚀 Featured Data Projects
 * **Monitoring Pipeline:** Automated data extraction via Web Scraping with structured storage in **AWS S3**.
 * **Learning Journey:** Daily technical documentation of Data Engineering and SQL studies.
 * **Data Storytelling:** Interactive dashboards for decision-making built with Python and Streamlit.
 
 ---
-### 📫 Vamos nos conectar? (Seus Links Originais)
+### 📫 Vamos nos conectar? 
 
- * 📫 *LinkedIn:* www.linkedin.com/in/yasmim-loppes/
- * 📧 *Email:* yasmim_loppes@icloud.com
- * 💻 *GitHub:* www.github.com/yasmimloppes
+📫 **LinkedIn:** www.linkedin.com/in/yasmim-loppes/  
+📧 **E-mail:** yasmim_loppes@icloud.com  
+💻 **GitHub:** www.github.com/yasmimloppes  
 
-<p align="center"><i>"Engineering is about making things work. Data Engineering is about making data work for everyone."</i></p>
+"Engenharia é sobre fazer as coisas funcionarem. Engenharia de Dados é sobre fazer os dados funcionarem para todos."
