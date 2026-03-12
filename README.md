@@ -34,7 +34,7 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
 
 ### 📈 Metrics & Contributions
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true&animation=true" width="100%" />
 </div>
 
 <div align="center">
