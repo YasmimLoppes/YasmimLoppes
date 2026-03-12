@@ -61,7 +61,7 @@
 ### 🚀 Projetos de Dados em Destaque
 * **SAD Logística:** Dashboard analítico focado em storytelling e métricas de desempenho para gestão de logística de doações.
 * **Pipeline de Monitoramento:** Extração automatizada de dados via Web Scraping com armazenamento estruturado no **AWS S3**.
-* **Jornada de Aprendizagem:** Repositório dedicado à documentação técnica diária de estudos em Engenharia de Dados.
+* **Jornada de Aprendizagem:** Documentação técnica diária de estudos de Engenharia de Dados e SQL.
 
 ---
 
