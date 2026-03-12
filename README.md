@@ -69,9 +69,9 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
 <br />
 
 ### 🚀 Featured Data Projects
+* **Kabum Price Monitor:** Pipeline de extração automatizada via Web Scraping para monitoramento de hardware, com orquestração de dados e armazenamento em estrutura de **Data Lake (AWS S3)**.
 * **SAD Logística:** Desenvolvimento de ecossistema de dados analítico voltado para monitoramento de fluxos logísticos e storytelling estratégico.
-* **Pipeline de Monitoramento:** Automação de coleta de dados via Web Scraping com arquitetura de armazenamento estruturado em **AWS S3**.
-* **Data Engineering Journey:** Repositório de documentação técnica e evolução contínua em arquitetura de dados e lógica SQL.
+* **Data Engineering Journey:** Repositório de documentação técnica e evolução contínua em arquitetura de dados, lógica SQL e automação de processos.
 
 ---
 
