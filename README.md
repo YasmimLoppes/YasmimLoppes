@@ -75,8 +75,7 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
 
 ---
 
-### 📫 Let's Connect
----
+### 📫 Vamos nos conectar?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
@@ -93,7 +92,7 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=03045e,0077b6,00b4d8&height=30&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=03045e&secondaryColor=00b4d8&height=30&section=footer" width="100%"/>
   
   *"Engineering is about making things work. Data Engineering is about making data work for everyone."*
 </div>
