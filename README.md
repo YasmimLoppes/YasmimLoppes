@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=17498c&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Data%20Engineer%20in%20the%20making%20|%20ADS%203º%20Semestre&descSize=25&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=17498c&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Data%20Engineer%20in%20the%20making&descSize=25&descAlignY=65" width="100%" />
 
   <img src="https://i.pinimg.com/originals/82/3a/00/823a0026aa600020e908637376722363.gif" width="100%" alt="Data Server Art" />
 
@@ -25,10 +25,11 @@
 
 | Domínio | Ferramentas |
 | :--- | :--- |
-| **Idiomas** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> |
-| **Nuvem & Infra** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> |
-| **Engenharia** | <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" /> <img src="https://img.shields.io/badge/Pipelines-0056b3?style=flat-square" /> <img src="https://img.shields.io/badge/Scraping-3776AB?style=flat-square" /> |
-| **Data Viz** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /> |
+| **Linguagens** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
+| **Nuvem & Infra** | <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
+| **Data Engineering** | <img src="https://img.shields.io/badge/Pipelines-0056b3?style=flat-square" /> <img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/ETL-003366?style=flat-square" /> |
+| **Data Viz & DS** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas/NumPy-150458?style=flat-square&logo=pandas&logoColor=white" /> |
+| **Certificações** | <img src="https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/Cybersecurity-FFD700?style=flat-square&logo=target&logoColor=black" /> |
 
 <br />
 
@@ -54,9 +55,9 @@
 <br />
 
 ### 🚀 Projetos de Dados em Destaque
+* **SAD Logística:** Dashboard analítico focado em storytelling e métricas de desempenho para gestão de logística de doações.
 * **Pipeline de Monitoramento:** Extração automatizada de dados via Web Scraping com armazenamento estruturado no **AWS S3**.
-* **Jornada de Aprendizagem:** Documentação técnica diária de estudos de Engenharia de Dados e SQL.
-* **Narrativa de dados:** Painéis interativos para tomada de decisão construídos com Python e Streamlit.
+* **Jornada de Aprendizagem:** Repositório dedicado à documentação técnica diária de estudos em Engenharia de Dados.
 
 ---
 
@@ -81,6 +82,3 @@
   
   *"Engineering is about making things work. Data Engineering is about making data work for everyone."*
 </div>
-
-
-
