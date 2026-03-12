@@ -9,7 +9,7 @@
 
 <br />
 
-### 🛠️ Fluxo de Pipeline de Dados (ETL/ELT)
+### 🛠️ Data Pipeline Flow (ETL/ELT)
 
 <div align="center">
   <img src="https://img.shields.io/badge/INGESTÃO-Python_/_Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,35 +52,4 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0056b3&ring=0056b3&fire=0056b3&currStreakLabel=0056b3&sideLabels=ffffff&dates=ffffff&background=00000000" width="100%" />
-</div>
-
-<br />
-
-### 🚀 Projetos de Dados em Destaque
-* **SAD Logística:** Dashboard analítico focado em storytelling de dados e métricas de desempenho para gestão de logística de doações.
-* **AWS Cloud Architectures:** Coleção de estudos e laboratórios práticos utilizando serviços AWS (S3, IAM, Lambda).
-
----
-
-### 📫 Vamos nos conectar?
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yasmim_loppes@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-FF4500?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yasmimloppes" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,23,76,2,48,71,1,73,124&height=30&section=footer" width="100%"/>
-  
-  *"Engineering is about making things work. Data Engineering is about making data work for everyone."*
-</div>
+  <img src="
