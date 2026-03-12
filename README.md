@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=17498c&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Data%20Engineer%20in%20the%20making&descSize=25&descAlignY=65" width="100%" />
 
@@ -45,4 +46,52 @@ Atualmente estou mergulhando no universo da **Engenharia de Dados**. Meu foco é
 
 ### 📈 Inteligência de Sistemas e Métricas
 <div align="center">
-  <img src="
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=0056b3&text_color=ffffff&icon_color=0056b3&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=0056b3&text_color=ffffff&bar_color=0056b3&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0056b3&ring=0056b3&fire=0056b3&currStreakLabel=0056b3&sideLabels=ffffff&dates=ffffff&background=00000000" width="100%" />
+</div>
+
+<br />
+
+### 🚀 Projetos de Dados em Destaque
+* **SAD Logística:** Dashboard analítico focado em storytelling e métricas de desempenho para gestão de logística de doações.
+* **Pipeline de Monitoramento:** Extração automatizada de dados via Web Scraping com armazenamento estruturado no **AWS S3**.
+* **Jornada de Aprendizagem:** Repositório dedicado à documentação técnica diária de estudos em Engenharia de Dados.
+
+---
+
+### 📫 Vamos nos conectar?
+<div align="center">
+  <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yasmim_loppes@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-FF4500?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yasmimloppes" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,23,76,2,48,71,1,73,124&height=30&section=footer" width="100%"/>
+  
+  *"Engineering is about making things work. Data Engineering is about making data work for everyone."*
+</div>
