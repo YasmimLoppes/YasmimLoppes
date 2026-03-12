@@ -53,13 +53,17 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=64ffda&text_color=ffffff&icon_color=64ffda&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=64ffda&text_color=ffffff&icon_color=64ffda&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a192f" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=64ffda&text_color=ffffff&bar_color=64ffda&hide_border=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=64ffda&text_color=ffffff&bar_color=64ffda&hide_border=true&bg_color=0a192f" width="100%" />
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ffffff&dates=ffffff&background=0a192f" width="100%" />
 </div>
 
 <div align="center">
