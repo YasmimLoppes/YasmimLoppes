@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=17498c&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Data%20Engineering%20Specialist%20in%20the%20making&descSize=25&descAlignY=65" width="100%" />
 
   <img src="https://i.pinimg.com/originals/82/3a/00/823a0026aa600020e908637376722363.gif" width="100%" alt="Data Server Art" />
-
+  
   ### 🏗️ Data Architecture & Infrastructure
   **3º Semestre - Análise e Desenvolvimento de Sistemas (ADS)**
 </div>
