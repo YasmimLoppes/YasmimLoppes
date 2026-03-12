@@ -52,6 +52,10 @@
   </table>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0056b3&ring=0056b3&fire=0056b3&currStreakLabel=0056b3&sideLabels=ffffff&dates=ffffff&background=00000000" width="100%" />
+</div>
+
 <br />
 
 ### 🚀 Projetos de Dados em Destaque
