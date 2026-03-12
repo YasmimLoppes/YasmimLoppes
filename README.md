@@ -9,14 +9,14 @@
 
 <br />
 
-### 🛠️ Data Pipeline Flow (ETL/ELT)
+### 🛠️ Fluxo de Pipeline de Dados (ETL/ELT)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/INGESTÃO-Python_/_Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/INGESTÃO-Python%20/%20Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <span> ➔ </span>
-  <img src="https://img.shields.io/badge/ARMAZENAMENTO-AWS_S3_/_PostgreSQL-0056b3?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARMAZENAMENTO-AWS%20S3%20/%20PostgreSQL-0056b3?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <span> ➔ </span>
-  <img src="https://img.shields.io/badge/TRANSFORMAÇÃO-SQL_/_Pandas-003366?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRANSFORMAÇÃO-SQL%20/%20Pandas-003366?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 <br />
@@ -63,20 +63,20 @@
 * **Narrativa de dados:** Painéis interativos para tomada de decisão construídos com Python e Streamlit.
 
 ---
+
 ### 📫 Vamos nos conectar?
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=1e90ff" />
   </a>
   <a href="mailto:yasmim_loppes@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0056b3?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-0056b3?style=for-the-badge&logo=gmail&logoColor=1e90ff" />
   </a>
   <a href="https://github.com/yasmimloppes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=1e90ff" />
   </a>
-</div>
-
-<br />
+</p>
 
 "Engenharia é sobre fazer as coisas funcionarem. Engenharia de Dados é sobre fazer os dados funcionarem para todos."
+
