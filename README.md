@@ -1,74 +1,59 @@
 <div align="center">
-  
-  # ⚡ Yasmim Lopes | Data Engineer in the making
-  
-  <img src="https://i.pinimg.com/originals/82/3a/00/823a0026aa600020e908637376722363.gif" width="100%" alt="Data Server Art" />
-
-  ### 🏗️ Systems & Data Architectures
-  **3rd Semester - Analysis and Systems Development (ADS)**
-</div>
-
-<br />
-
-### 🛠️ Data Pipeline Flow (ETL/ELT)
-
-<div align="center">
-  <img src="https://img.shields.io/badge/INGEST-Python_/_Scraping-0056b3?style=for-the-badge&logo=python&logoColor=white" />
-  <span> ➔ </span>
-  <img src="https://img.shields.io/badge/STORAGE-AWS_S3_/_PostgreSQL-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <span> ➔ </span>
-  <img src="https://img.shields.io/badge/TRANSFORM-SQL_/_Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
-
-<br />
-
-### 💻 Infrastructure & Toolbox
-
-| Domain | Tools |
-| :--- | :--- |
-| **Languages** | `Python`, `SQL`, `Bash` |
-| **Cloud & Infra** | `AWS (S3, Educate)`, `Docker`, `Linux` |
-| **Engineering** | `Apache Airflow`, `Data Pipelines`, `Web Scraping` |
-| **Data Viz** | `Streamlit`, `Power BI`, `Plotly` |
-
-<br />
-
-### 📈 System Intelligence & Metrics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,23,76,2,48,71,1,73,124&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Data%20Engineer%20in%20the%20making%20|%20ADS%203º%20Semestre&descSize=25&descAlignY=65" />
 </div>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=0056b3&text_color=ffffff&icon_color=0056b3&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=0056b3&text_color=ffffff&bar_color=0056b3&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=YasmimLoppes&label=Profile%20views&color=0e75b6&style=flat" alt="YasmimLoppes views" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0056b3&ring=0056b3&fire=0056b3&currStreakLabel=0056b3&sideLabels=ffffff&dates=ffffff&background=00000000" width="100%" />
-</div>
-
-<br />
-
-### 🚀 Featured Data Projects
-* **Monitoring Pipeline:** Automated data extraction via Web Scraping with structured storage in **AWS S3**.
-* **Learning Journey:** Daily technical documentation of Data Engineering and SQL studies.
-* **Data Storytelling:** Interactive dashboards for decision-making built with Python and Streamlit.
 
 ---
-### 📫 Vamos nos conectar?
 
- * 📫 *LinkedIn:* www.linkedin.com/in/yasmim-loppes/
- * 📧 *Email:* yasmim_loppes@icloud.com
- * 💻 *GitHub:* www.github.com/yasmimloppes
+## 👋 Sobre Mim
 
-*"Engineering is about making things work. Data Engineering is about making data work for everyone."*
+<p align="left">
+  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> focada em construir pipelines de dados eficientes. Atualmente explorando o ecossistema de dados na nuvem.
+</p>
 
+- 🔭 **Projeto Atual:** [Tech Market Sentinel](https://github.com/YasmimLoppes/tech-market-sentinel)
+- 🌱 **Foco de Estudo:** AWS (S3, Lambda), Docker e Airflow.
+- 🎯 **Objetivo:** Estágio em Engenharia de Dados.
+
+---
+
+## 🛠️ Toolbox (Tecnologias)
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+---
+
+## 📊 GitHub Analytics (Dashboard Estilo Ali)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=YasmimLoppes&repo=tech-market-sentinel&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,23,76,2,48,71,1,73,124&height=100&section=footer" />
+</div>
