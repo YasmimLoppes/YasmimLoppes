@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0a192f&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20Specialist%20in%20the%20making&descSize=25&descAlignY=65&fontColor=64ffda" width="100%" />
 
   <img src="https://i.pinimg.com/originals/82/3a/00/823a0026aa600020e908637376722363.gif" width="100%" alt="Data Server Art" />
-  
+
   ### 🏗️ Data Architecture & Infrastructure
   **3º Semestre - Análise e Desenvolvimento de Sistemas (ADS)**
 </div>
@@ -19,28 +19,6 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
 * ☁️ **Cloud Architecture:** Implementação de soluções em nuvem com foco em **AWS (S3, IAM, Lambda)**.
 * 🛡️ **Cybersecurity & Governance:** Aplicação de protocolos de segurança e conformidade no tráfego de dados.
 * 🐍 **Advanced Analytics:** Processamento de grandes volumes de dados utilizando **Python (Pandas/NumPy)** e SQL avançado.
-
-<br />
-
-### 🛠️ Data Pipeline Lifecycle (Core Workflow)
-<div align="center">
-  <img src="https://img.shields.io/badge/INGESTÃO-PYTHON%20/%20SCRAPING-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <span> ➔ </span>
-  <img src="https://img.shields.io/badge/ARMAZENAMENTO-AWS%20S3%20/%20POSTGRESQL-0056b3?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <span> ➔ </span>
-  <img src="https://img.shields.io/badge/TRANSFORMAÇÃO-SQL%20/%20PANDAS-003366?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
-
-<br />
-
-### 💻 Technical Toolbox (Stack Tecnológica)
-| Domínio | Ferramentas & Tecnologias |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
-| **Cloud & Infra** | <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
-| **Data Eng.** | <img src="https://img.shields.io/badge/Data_Pipelines-0056b3?style=flat-square" /> <img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/ETL/ELT-003366?style=flat-square" /> |
-| **Data Viz & DS** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas/NumPy-150458?style=flat-square&logo=pandas&logoColor=white" /> |
-| **Expertise** | <img src="https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/Cybersecurity-FFD700?style=flat-square&logo=target&logoColor=black" /> |
 
 <br />
 
@@ -66,35 +44,18 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ffffff&dates=ffffff&background=0a192f" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ffffff&dates=ffffff&background=0a192f" width="100%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ffffff&dates=ffffff&background=0a192f" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ffffff&dates=ffffff&background=0a192f" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ffffff&dates=ffffff&background=0a192f" width="100%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0056b3&ring=0056b3&fire=0056b3&currStreakLabel=0056b3&sideLabels=ffffff&dates=ffffff&background=00000000" width="100%" />
-</div>
-
 <br />
 
 ### 🚀 Featured Data Projects
 * **Kabum Price Monitor:** Pipeline de extração automatizada via Web Scraping para monitoramento de hardware, com orquestração de dados e armazenamento em estrutura de **Data Lake (AWS S3)**.
 * **SAD Logística:** Desenvolvimento de ecossistema de dados analítico voltado para monitoramento de fluxos logísticos e storytelling estratégico.
-* **Data Engineering Journey:** Repositório de documentação técnica e evolução contínua em arquitetura de dados, lógica SQL e automação de processos.
+* **Data Engineering Journey:** Repositório de documentação técnica e evolução contínua em arquitetura de dados e lógica SQL.
+
+<br />
 
 ---
 
 ### 📫 Vamos nos conectar?
-
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -110,7 +71,7 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00c4cc&height=30&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=30&section=footer" width="100%"/>
   
   *"Engineering is about making things work. Data Engineering is about making data work for everyone."*
 </div>
