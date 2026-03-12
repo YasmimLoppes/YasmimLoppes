@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=17498c&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Data%20Engineer%20in%20the%20making&descSize=25&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=17498c&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Data%20Engineer%20in%20the%20making%20|%20ADS%203º%20Semestre&descSize=25&descAlignY=65" width="100%" />
 
   <img src="https://i.pinimg.com/originals/82/3a/00/823a0026aa600020e908637376722363.gif" width="100%" alt="Data Server Art" />
 
@@ -9,14 +9,14 @@
 
 <br />
 
-### 🛠️ Data Pipeline Flow (ETL/ELT)
+### 🛠️ Fluxo de Pipeline de Dados (ETL/ELT)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/INGESTÃO-Python_/_Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/INGESTÃO-PYTHON%20/%20SCRAPING-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <span> ➔ </span>
-  <img src="https://img.shields.io/badge/ARMAZENAMENTO-AWS_S3_/_PostgreSQL-0056b3?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARMAZENAMENTO-AWS%20S3%20/%20POSTGRESQL-0056b3?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <span> ➔ </span>
-  <img src="https://img.shields.io/badge/TRANSFORMAÇÃO-SQL_/_Pandas-003366?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRANSFORMAÇÃO-SQL%20/%20PANDAS-003366?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 <br />
@@ -25,10 +25,10 @@
 
 | Domínio | Ferramentas |
 | :--- | :--- |
-| **Idiomas** | `Python`, `SQL`, `Bash` |
-| **Nuvem & Infra** | `AWS (S3, Educate)`, `Docker`, `Linux` |
-| **Engenharia** | `Apache Airflow`, `Data Pipelines`, `Web Scraping` |
-| **Data Viz** | `Streamlit`, `Power BI`, `Plotly` |
+| **Idiomas** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> |
+| **Nuvem & Infra** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> |
+| **Engenharia** | <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" /> <img src="https://img.shields.io/badge/Pipelines-0056b3?style=flat-square" /> <img src="https://img.shields.io/badge/Scraping-3776AB?style=flat-square" /> |
+| **Data Viz** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /> |
 
 <br />
 
@@ -51,20 +51,16 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0056b3&ring=0056b3&fire=0056b3&currStreakLabel=0056b3&sideLabels=ffffff&dates=ffffff&background=00000000" width="100%" />
-</div>
-
 <br />
 
 ### 🚀 Projetos de Dados em Destaque
-* **SAD Logística:** Dashboard analítico focado em storytelling de dados e métricas de desempenho para gestão de logística de doações.
-* **AWS Cloud Architectures:** Coleção de estudos e laboratórios práticos utilizando serviços AWS (S3, IAM, Lambda).
+* **Pipeline de Monitoramento:** Extração automatizada de dados via Web Scraping com armazenamento estruturado no **AWS S3**.
+* **Jornada de Aprendizagem:** Documentação técnica diária de estudos de Engenharia de Dados e SQL.
+* **Narrativa de dados:** Painéis interativos para tomada de decisão construídos com Python e Streamlit.
 
 ---
 
 ### 📫 Vamos nos conectar?
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
@@ -85,3 +81,6 @@
   
   *"Engineering is about making things work. Data Engineering is about making data work for everyone."*
 </div>
+
+
+
