@@ -22,6 +22,16 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
 
 <br />
 
+### 💻 Technical Toolbox (Stack Tecnológica)
+
+| Domínio | Ferramentas & Tecnologias |
+| :--- | :--- |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
+| **Cloud & Infra** | <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
+| **Data Eng.** | <img src="https://img.shields.io/badge/Data_Pipelines-0056b3?style=flat-square" /> <img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/ETL/ELT-003366?style=flat-square" /> |
+| **Data Viz & DS** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas/NumPy-150458?style=flat-square&logo=pandas&logoColor=white" /> |
+| **Expertise** | <img src="https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/Cybersecurity-FFD700?style=flat-square&logo=target&logoColor=black" /> |
+
 ### 📈 Metrics & Contributions
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" width="100%" />
