@@ -9,14 +9,14 @@
 
 <br />
 
-### 🛠️ Fluxo de Pipeline de Dados (ETL/ELT)
+### 🛠️ Data Pipeline Flow (ETL/ELT)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/INGESTÃO-Python%20/%20Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/INGESTÃO-Python_/_Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <span> ➔ </span>
-  <img src="https://img.shields.io/badge/ARMAZENAMENTO-AWS%20S3%20/%20PostgreSQL-0056b3?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARMAZENAMENTO-AWS_S3_/_PostgreSQL-0056b3?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <span> ➔ </span>
-  <img src="https://img.shields.io/badge/TRANSFORMAÇÃO-SQL%20/%20Pandas-003366?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRANSFORMAÇÃO-SQL_/_Pandas-003366?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
 <br />
@@ -60,18 +60,4 @@
 ### 🚀 Projetos de Dados em Destaque
 * **Pipeline de Monitoramento:** Extração automatizada de dados via Web Scraping com armazenamento estruturado no **AWS S3**.
 * **Jornada de Aprendizagem:** Documentação técnica diária de estudos de Engenharia de Dados e SQL.
-* **Narrativa de dados:** Painéis interativos para tomada de decisão construídos com Python e Streamlit.
 
----
-
-### 📫 Vamos nos conectar?
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yasmim_loppes@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-0056b3?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yasmimloppes" target="_blank">
-    <img src="https://img.shields
