@@ -15,15 +15,15 @@
 
 <br />
 
-### 💻 Infrastructure & Toolbox
+### 💻 Infrastructure & Ecosystem
 <div align="center">
 
-| Domain | Tools & Technologies |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `Python (Pandas, NumPy)`, `SQL (PostgreSQL, SQLite)`, `Bash` |
-| **Cloud & Infra** | `AWS (S3, Glue, Lambda)`, `Docker`, `Linux (Ubuntu)`, `Git/GitHub` |
-| **Engineering** | `Apache Airflow`, `ETL/ELT Pipelines`, `Data Warehousing`, `Data Quality` |
-| **Visualization** | `Streamlit`, `Plotly`, `Power BI`, `Excel (Advanced)` |
+| **Cloud Infrastructure** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> `S3`, `IAM`, `Glue`, `Lambda`, `CloudWatch` |
+| **DevOps & CI/CD** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> `Actions`, `Linux (Ubuntu)` |
+| **Data Orchestration** | <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=Apache-Airflow&logoColor=white" /> `Pipelines`, `Data Quality`, `Scheduling` |
+| **Environment** | `VS Code`, `Jupyter Notebooks`, `Anaconda`, `WSL2` |
 
 </div>
 
@@ -54,24 +54,5 @@
 <br />
 
 ### 🚀 Featured Data Projects
-* 🛰️ **Tech Market Sentinel:** Monitoramento automatizado de preços de hardware. Pipeline end-to-end com Web Scraping, processamento em Python e armazenamento estruturado.
-* 📚 **Data Learning Journey:** Repositório de documentação técnica diária, focando em conceitos de Engenharia de Dados, SQL avançado e arquitetura de sistemas.
-* 📊 **SAD Logística:** Dashboard analítico focado em storytelling de dados e métricas de desempenho para gestão de logística de doações.
-* ☁️ **AWS Cloud Architectures:** Coleção de estudos e laboratórios práticos utilizando serviços AWS (S3, IAM, Lambda).
-
----
-
-### 📫 Vamos nos conectar?
-<div align="center">
-  <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yasmim_loppes@icloud.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YasmimLoppes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,23,76,2,48,71,1,73,124&height=100&section=footer" />
-</div>
-
-<p align="center"><i>"Engineering is about making things work. Data Engineering is about making data work for everyone."</i></p>
+* 🛰️ **Tech Market Sentinel:** Pipeline completo de monitoramento. Ingestão via Scraping, armazenamento em **AWS S3** e modelagem SQL.
+* 📚 **Data
