@@ -9,8 +9,12 @@
 
 <br />
 
-### 🛠️ Fluxo de Pipeline de Dados (ETL/ELT)
+## 📋 Sobre Mim
+Atualmente estou mergulhando no universo da **Engenharia de Dados**. Meu foco é construir estruturas sólidas que transformam dados brutos em insights valiosos. Acredito que a base de qualquer inteligência de negócio começa com uma arquitetura bem desenhada.
 
+<br />
+
+### 🛠️ Fluxo de Pipeline de Dados (ETL/ELT)
 <div align="center">
   <img src="https://img.shields.io/badge/INGESTÃO-PYTHON%20/%20SCRAPING-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <span> ➔ </span>
@@ -22,7 +26,6 @@
 <br />
 
 ### 💻 Infraestrutura e Caixa de Ferramentas
-
 | Domínio | Ferramentas |
 | :--- | :--- |
 | **Linguagens** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
@@ -34,7 +37,6 @@
 <br />
 
 ### 📈 Inteligência de Sistemas e Métricas
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
 </div>
@@ -66,7 +68,6 @@
 ---
 
 ### 📫 Vamos nos conectar?
-
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
