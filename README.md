@@ -92,7 +92,7 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1a5276,2980b9,5dade2,a9cce3&height=30&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00c4cc&height=30&section=footer" width="100%"/>
   
   *"Engineering is about making things work. Data Engineering is about making data work for everyone."*
 </div>
