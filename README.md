@@ -49,6 +49,11 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
+### 📈 Metrics & Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
 <div align="center">
   <table border="0">
     <tr>
@@ -60,6 +65,13 @@ Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e esca
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ffffff&dates=ffffff&background=0a192f" width="100%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ffffff&dates=ffffff&background=0a192f" width="100%" />
 </div>
 
 <div align="center">
