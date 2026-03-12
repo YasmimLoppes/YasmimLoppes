@@ -10,7 +10,7 @@
 <br />
 
 ## 📋 Professional Overview
-Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e escaláveis. Minha atuação centraliza-se na construção de **Pipelines de Dados (ETL/ELT)**, garantindo a integridade, disponibilidade e performance desde a ingestão até a camada de consumo. Busco aplicar as melhores práticas de **Data Modeling** e infraestrutura em nuvem para sustentar decisões baseadas em dados.
+Atualmente focada no desenvolvimento de ecossistemas de dados resilientes e escaláveis. Minha atuação centraliza-se na construção de **Pipelines de Dados (ETL/ELT)**, garantindo a integridade, disponibilidade e performance desde a ingestão até a camada de consumo. Busco aplicar as melhores práticas de **Data Modeling** e infraestrutura em nuvem para sustentar decisões baseadas em dados.
 
 <br />
 
