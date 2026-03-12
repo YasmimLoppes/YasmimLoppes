@@ -1,29 +1,28 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=17498c&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Data%20Engineer%20in%20the%20making&descSize=25&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=17498c&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight&desc=Data%20Engineering%20Specialist%20in%20the%20making&descSize=25&descAlignY=65" width="100%" />
 
   <img src="https://i.pinimg.com/originals/82/3a/00/823a0026aa600020e908637376722363.gif" width="100%" alt="Data Server Art" />
 
-  ### 🏗️ Sistemas e Arquiteturas de Dados
+  ### 🏗️ Data Architecture & Infrastructure
   **3º Semestre - Análise e Desenvolvimento de Sistemas (ADS)**
 </div>
 
 <br />
 
-## 📋 Sobre Mim
-Atualmente estou mergulhando no universo da **Engenharia de Dados**. Meu foco é construir estruturas sólidas que transformam dados brutos em insights valiosos. Acredito que a base de qualquer inteligência de negócio começa com uma arquitetura bem desenhada.
+## 📋 Professional Overview
+Atualmente focado no desenvolvimento de ecossistemas de dados resilientes e escaláveis. Minha atuação centraliza-se na construção de **Pipelines de Dados (ETL/ELT)**, garantindo a integridade, disponibilidade e performance desde a ingestão até a camada de consumo. Busco aplicar as melhores práticas de **Data Modeling** e infraestrutura em nuvem para sustentar decisões baseadas em dados.
 
 <br />
 
-## 📚 O que ando estudando?
-* 🛡️ **Cybersecurity:** Fundamentos de proteção de dados e segurança de redes.
-* ☁️ **Cloud Computing:** Arquitetura e armazenamento escalável com foco em AWS.
-* 🐍 **Python para Dados:** Manipulação avançada com Pandas, NumPy e automação de processos.
-* 📊 **Storytelling:** Transformando números em narrativas visuais estratégicas.
+## 📚 Stack & Research Focus
+* ⚙️ **Data Infrastructure:** Arquitetura de microsserviços e orquestração de fluxos complexos.
+* ☁️ **Cloud Architecture:** Implementação de soluções em nuvem com foco em **AWS (S3, IAM, Lambda)**.
+* 🛡️ **Cybersecurity & Governance:** Aplicação de protocolos de segurança e conformidade no tráfego de dados.
+* 🐍 **Advanced Analytics:** Processamento de grandes volumes de dados utilizando **Python (Pandas/NumPy)** e SQL avançado.
 
 <br />
 
-### 🛠️ Fluxo de Pipeline de Dados (ETL/ELT)
+### 🛠️ Data Pipeline Lifecycle (Core Workflow)
 <div align="center">
   <img src="https://img.shields.io/badge/INGESTÃO-PYTHON%20/%20SCRAPING-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <span> ➔ </span>
@@ -34,17 +33,18 @@ Atualmente estou mergulhando no universo da **Engenharia de Dados**. Meu foco é
 
 <br />
 
-### 💻 Infraestrutura e Caixa de Ferramentas
-| Domínio | Ferramentas |
+### 💻 Technical Toolbox (Stack Tecnológica)
+| Domínio | Ferramentas & Tecnologias |
 | :--- | :--- |
-| **Linguagens** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
-| **Nuvem & Infra** | <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
-| **Data Engineering** | <img src="https://img.shields.io/badge/Pipelines-0056b3?style=flat-square" /> <img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/ETL-003366?style=flat-square" /> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
+| **Cloud & Infra** | <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
+| **Data Eng.** | <img src="https://img.shields.io/badge/Data_Pipelines-0056b3?style=flat-square" /> <img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/ETL/ELT-003366?style=flat-square" /> |
 | **Data Viz & DS** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas/NumPy-150458?style=flat-square&logo=pandas&logoColor=white" /> |
+| **Expertise** | <img src="https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/Cybersecurity-FFD700?style=flat-square&logo=target&logoColor=black" /> |
 
 <br />
 
-### 📈 Inteligência de Sistemas e Métricas
+### 📈 Metrics & Contributions
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=tokyonight&color=0056b3&area=true&hide_border=true&bg_color=00000000" width="100%" />
 </div>
@@ -68,14 +68,14 @@ Atualmente estou mergulhando no universo da **Engenharia de Dados**. Meu foco é
 
 <br />
 
-### 🚀 Projetos de Dados em Destaque
-* **SAD Logística:** Dashboard analítico focado em storytelling e métricas de desempenho para gestão de logística de doações.
-* **Pipeline de Monitoramento:** Extração automatizada de dados via Web Scraping com armazenamento estruturado no **AWS S3**.
-* **Jornada de Aprendizagem:** Repositório dedicado à documentação técnica diária de estudos em Engenharia de Dados.
+### 🚀 Featured Data Projects
+* **SAD Logística:** Desenvolvimento de ecossistema de dados analítico voltado para monitoramento de fluxos logísticos e storytelling estratégico.
+* **Pipeline de Monitoramento:** Automação de coleta de dados via Web Scraping com arquitetura de armazenamento estruturado em **AWS S3**.
+* **Data Engineering Journey:** Repositório de documentação técnica e evolução contínua em arquitetura de dados e lógica SQL.
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
