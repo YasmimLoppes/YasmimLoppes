@@ -1,47 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0a192f&height=250&section=header&text=Yasmim%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20Specialist%20in%20the%20making&descSize=25&descAlignY=65&fontColor=64ffda" width="100%" />
----
-# Olá, eu sou a Yasmim! 👋
-  
-### 👩‍💻 Sobre Mim
-Atualmente cursando o 3º Semestre de **Análise e Desenvolvimento de Sistemas**, com foco total em **Engenharia de Dados** e Cloud Computing. Minha jornada é pautada na construção de **pipelines automatizados**, escalabilidade e arquitetura robusta.
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0a192f&height=250&section=header&text=Yasmim%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20|%20Python%20|%20SQL%20|%20Docker%20|%20Cloud&descSize=25&descAlignY=65&fontColor=64ffda" width="100%" />
+</div>
 
-- 🔬 Atualmente trabalhando no projeto **[Sentinela](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa)** (Pipeline ETL com Docker e PostgreSQL).
-- 🧠 Foco em: **Python, SQL, Docker, Pandas, Linux** e fundamentação em **Machine Learning**.
-- 🎯 Objetivo: Atuar como Engenheira de Dados em uma multinacional de tecnologia.
-- 💻 No meu setup: **Dell G15** rodando ambientes containerizados de alta performance.
+---
+
+# Olá, eu sou a Yasmim! 👋
+
+### 👩‍💻 Sobre Mim
+Atualmente cursando o 3º Semestre de **Análise e Desenvolvimento de Sistemas** na **Unisanta**, com foco total em **Engenharia de Dados** e Cloud Computing. Minha jornada é pautada na construção de **pipelines de dados end-to-end**, automação de processos e arquitetura robusta.
+
+- 🔬 **Projeto Atual:** [Sentinela (Pipeline Clima)](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa) — Sistema de **ETL (Extract, Transform, Load)** automatizado consumindo APIs reais.
+- 🧠 **Tech Stack:** Domínio em **Python (Pandas, NumPy, Requests)**, **SQL Avançado (DML/DDL)**, **Docker**, **Linux (WSL2)** e **AWS S3**.
+- 🎯 **Objetivo:** Atuar como Engenheira de Dados em ambientes de alta escala, focando em eficiência operacional e governança.
+- 💻 **Ambiente:** Desenvolvimento de infraestruturas de dados de alta performance utilizando ambientes containerizados.
 
 ---
 
 ### 🛡️ Segurança e DataOps
-Diferente de scripts simples, este pipeline foi construído com foco em **boas práticas de mercado**:
+Diferente de scripts simples, meus projetos são construídos com foco em **boas práticas de mercado**:
 
-- **Segurança de Dados:** Uso de variáveis de ambiente (`.env`) para proteger credenciais de acesso, garantindo que senhas nunca sejam expostas.
-- **Containerização:** Uso do Docker para subir o banco de dados e a interface de forma rápida e isolada.
-- **Automação:** Coleta automática e carga no banco para criar um histórico real de cotações.
-
----
-<p align="center">"Data is the new oil, but Engineering is the refinery." 🚀</p>
-
-- 🔭 **Projeto Atual:** Desenvolvendo o **[Sentinela](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa)**, um pipeline ETL automatizado com Python, Docker e PostgreSQL.
-- ⚙️ **Foco Técnico:** Ingestão de dados, Transformação (Pandas), Containerização (Docker) e Segurança (Variáveis de Ambiente).
-- 🎯 **Objetivo:** Atuar como Engenheira de Dados em ambientes de alta escala (Multinacionais).
-- 💻 **Ambiente:** Desenvolvendo infraestruturas de dados de alta performance no meu **Dell G15**.
+- **Segurança de Dados:** Uso de variáveis de ambiente (`.env`) para proteção de credenciais críticas.
+- **Containerização:** Implementação de **Docker** e **Docker Compose** para garantir a reprodutibilidade e isolamento do ambiente.
+- **Automação:** Fluxos de ingestão automática para criação de históricos de dados estruturados.
 
 ---
-<p align="center">"Data is the new oil, but Engineering is the refinery." 🚀</p>
-
-
 
 ### 💻 Technical Toolbox (Stack Tecnológica)
 
-| Domínio | Ferramentas & Tecnologias |
-| :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
-| **Cloud & Infra** | <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> |
-| **Data Eng.** | <img src="https://img.shields.io/badge/Data_Pipelines-0056b3?style=flat-square" /> <img src="https://img.shields.io/badge/Web_Scraping-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/ETL/ELT-003366?style=flat-square" /> |
-| **Data Viz & DS** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas/NumPy-150458?style=flat-square&logo=pandas&logoColor=white" /> |
-| **Expertise** | <img src="https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/Cybersecurity-FFD700?style=flat-square&logo=target&logoColor=black" /> |
+#### 🐍 Linguagens e Dados
+- **Python:** Pandas, NumPy, Requests, Matplotlib, Seaborn.
+- **SQL:** Consultas complexas, modelagem relacional, DML/DDL.
+- **Processos:** ETL/ELT, Web Scraping, Ingestão de APIs.
+
+#### ☁️ Infraestrutura e Cloud
+- **Cloud:** AWS Cloud Storage (S3).
+- **DevOps:** Docker (Gestão de Containers), Git/GitHub, WSL2 (Linux).
+- **Ambiente:** Monitoramento de hardware e automação de sistemas.
+
+#### 📊 Visualização e Gestão
+- **BI & Analytics:** Tableau Desktop, Dashboards de KPIs Interativos.
+- **Metodologias:** Ágeis (Scrum/Kanban), Storytelling de Dados.
+
+---
+
+### 🚀 Featured Data Projects
+
+- **[Pipeline de Dados Climáticos (API to SQL)](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa):** Desenvolvimento de um fluxo automatizado em **Python** para extração de dados de API pública, limpeza com **Pandas** e carga em banco de dados **SQL**, totalmente containerizado com **Docker**.
+- **Kabum Price Monitor:** Pipeline de extração automatizada via **Web Scraping** para monitoramento de hardware, com orquestração de dados e armazenamento em **AWS S3**.
+- **SAD Logística:** Desenvolvimento de ecossistema analítico para monitoramento de fluxos logísticos e criação de dashboards estratégicos em **Tableau**.
+
+---
 
 ### 📈 Metrics & Contributions
 <div align="center">
@@ -61,19 +69,6 @@ Diferente de scripts simples, este pipeline foi construído com foco em **boas p
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasmimLoppes&theme=tokyonight&hide_border=true&stroke=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ffffff&dates=ffffff&background=0a192f" width="100%" />
-</div>
-
-<br />
-
-### 🚀 Featured Data Projects
-* **Kabum Price Monitor:** Pipeline de extração automatizada via Web Scraping para monitoramento de hardware, com orquestração de dados e armazenamento em estrutura de **Data Lake (AWS S3)**.
-* **SAD Logística:** Desenvolvimento de ecossistema de dados analítico voltado para monitoramento de fluxos logísticos e storytelling estratégico.
-* **Data Engineering Journey:** Repositório de documentação técnica e evolução contínua em arquitetura de dados e lógica SQL.
-
-<br />
-
 ---
 
 ### 📫 Vamos nos conectar?
@@ -82,10 +77,7 @@ Diferente de scripts simples, este pipeline foi construído com foco em **boas p
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yasmim_loppes@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-FF4500?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yasmimloppes" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-FF4500?style=flat-square&logo=icloud&logoColor=white" />
   </a>
 </div>
 
@@ -93,6 +85,5 @@ Diferente de scripts simples, este pipeline foi construído com foco em **boas p
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=30&section=footer" width="100%"/>
-  
-  *"Engineering is about making things work. Data Engineering is about making data work for everyone."*
+  <p><i>"Engineering is about making things work. Data Engineering is about making data work for everyone."</i></p>
 </div>
