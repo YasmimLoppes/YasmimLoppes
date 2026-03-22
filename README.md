@@ -6,46 +6,52 @@
   <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop" width="100%" alt="Banner Engenharia de Dados">
 </p>
 
-# 🚀 Pipeline ETL: Automação de Cotação de Moedas com Docker
+# Olá, eu sou a Yasmin! 👋
 
-Olá! Eu sou a **Yasmin**, graduanda em ADS e aspirante a **Engenheira de Dados**. Este projeto demonstra um fluxo real de ingestão de dados financeiros, focado em **automação, segurança e containerização**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/may固定/may固定/master/assets/img/comp.gif" width="400" alt="Data Engineering Animation">
+</p>
 
----
+### 👩‍💻 Sobre Mim
+Estudante de **Análise e Desenvolvimento de Sistemas (3º Semestre)** com foco total em **Engenharia de Dados**. Sou apaixonada por transformar dados brutos em insights valiosos através de pipelines automatizados e infraestruturas escaláveis.
 
-### 🛠️ Tecnologias e Stack Técnica
-* **Linguagem:** Python 3.9+
-* **Processamento de Dados:** Pandas & SQLAlchemy
-* **Banco de Dados:** PostgreSQL (Relacional)
-* **Infraestrutura:** Docker & Docker Compose
-* **Gerenciamento de Banco:** Adminer (Interface Web)
-* **Segurança:** python-dotenv (Gestão de Variáveis de Ambiente)
-
----
-
-### 💡 Diferenciais do Projeto
-Diferente de scripts simples, este pipeline foi construído pensando em padrões de mercado:
-
-1. **Segurança em Primeiro Lugar:** Implementação de variáveis de ambiente (`.env`) para proteger credenciais de acesso ao banco, garantindo que nenhuma senha seja exposta no histórico do GitHub.
-2. **Infraestrutura como Código:** Uso do Docker para subir o ecossistema completo (Banco + Interface) em segundos, garantindo que o projeto rode em qualquer máquina (inclusive no meu Dell G15!).
-3. **Persistência de Dados:** O script realiza o *Append* dos dados, criando um histórico real das variações cambiais no PostgreSQL para futuras análises de BI.
-4. **Tratamento de Erros:** Logs básicos implementados para monitorar falhas de conexão com a API ou com o banco de dados.
+- 🔭 Atualmente trabalhando no projeto **Sentinela** (Pipeline de ETL com Docker e PostgreSQL).
+- ⚙️ Foco em: **Python, SQL, Docker, Pandas e Machine Learning Engineering**.
+- 🎯 Objetivo: Atuar como Engenheira de Dados em uma multinacional de tecnologia.
+- 💻 No meu setup: **Dell G15** rodando ambientes containerizados.
 
 ---
 
-### 📂 Estrutura do Repositório
-* `scripts/`: Contém o motor do ETL (`etl_script.py`).
-* `docker-compose.yml`: Orquestração dos containers Postgres e Adminer.
-* `.gitignore`: Configurado para proteger o arquivo `.env`.
-* `requirements.txt`: Dependências do projeto.
+### 🛠️ Toolbox (Tecnologias)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-### 🚀 Como Executar
-Confira o arquivo [INSTALL.md](./INSTALL.md) para o passo a passo de configuração e execução.
+### 📊 GitHub Stats (O que os recrutadores amam ver)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ---
-<p align="center">Conecte-se comigo no <a href="https://www.linkedin.com/in/yasmimloppes/">LinkedIn</a>!</p>
 
+### 📫 Vamos nos conectar?
+<p align="left">
+  <a href="https://www.linkedin.com/in/yasmimloppes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">"In data we trust, in Docker we containerize." 🚀</p>
 <br />
 
 ### 💻 Technical Toolbox (Stack Tecnológica)
