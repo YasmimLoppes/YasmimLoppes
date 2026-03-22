@@ -5,37 +5,57 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop" width="100%" alt="Banner Engenharia de Dados">
 </p>
-# 🚀 Pipeline ETL de Cotação de Moedas com Docker
 
-Olá! Eu sou a **Yasmin**, focada em **Engenharia de Dados**. Este projeto demonstra um fluxo de ingestão de dados financeiros usando **Python, Docker e PostgreSQL**.
+
+---
+# Olá, eu sou a Yasmin! 👋
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop" width="100%" alt="Banner Data Engineering Neon">
+</p>
+
+### 👩‍💻 Sobre Mim
+Sou graduanda em **Análise e Desenvolvimento de Sistemas (3º Semestre)** com foco total em **Engenharia de Dados**. Minha jornada é guiada pela construção de pipelines inteligentes, automação e arquitetura de dados robusta.
+
+- 🔭 **Projeto Atual:** Desenvolvendo o **[Sentinela](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa)**, um pipeline ETL automatizado com Python, Docker e PostgreSQL.
+- ⚙️ **Foco Técnico:** Ingestão de dados, Transformação (Pandas), Containerização (Docker) e Segurança (Variáveis de Ambiente).
+- 🎯 **Objetivo:** Atuar como Engenheira de Dados em ambientes de alta escala (Multinacionais).
+- 💻 **Ambiente:** Desenvolvendo infraestruturas de dados de alta performance no meu **Dell G15**.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-* **Linguagem:** Python (Pandas & SQLAlchemy)
-* **Banco de Dados:** PostgreSQL
-* **Infraestrutura:** Docker & Docker Compose
-* **Segurança:** python-dotenv (Variáveis de Ambiente)
+### 🛠️ Technical Toolbox (Habilidades)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-### 💡 O que este projeto resolve?
-Diferente de scripts manuais, este pipeline foi construído com foco em **automação e segurança**:
+### 📊 GitHub Stats (Atividade Técnica)
 
-1. **Segurança de Dados:** Uso de variáveis de ambiente (`.env`) para proteger credenciais, garantindo que senhas nunca sejam expostas no GitHub.
-2. **Containerização:** Uso do Docker para subir o banco de dados e a interface de forma rápida e isolada no meu **Dell G15**.
-3. **Persistência:** Coleta automática e carga no banco para criar um histórico real de cotações.
-
----
-
-### 🚀 Como Rodar
-Confira o arquivo [INSTALL.md](./INSTALL.md) para o passo a passo.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ---
-<p align="center">Conecte-se comigo no <a href="https://www.linkedin.com/in/yasmimloppes/">LinkedIn</a>!</p>
+
+### 📫 Vamos nos conectar?
+<p align="left">
+  <a href="https://www.linkedin.com/in/yasmimloppes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 <p align="center">"Data is the new oil, but Engineering is the refinery." 🚀</p>
-<br />
+
+
 
 ### 💻 Technical Toolbox (Stack Tecnológica)
 
