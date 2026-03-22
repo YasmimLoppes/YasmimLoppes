@@ -3,17 +3,30 @@
 ---
 # Olá, eu sou a Yasmin! 👋
 
-### 👩‍💻 Sobre Mim
-Atualmente cursando o **3º Semestre de Análise e Desenvolvimento de Sistemas**, com foco total em **Engenharia de Dados** e **Cloud Computing**. Sou apaixonada por transformar dados em insights através de pipelines automatizados e infraestruturas escaláveis.
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop" width="100%" alt="Banner Data Engineering Neon">
+</p>
 
-- 🔬 Atualmente trabalhando no projeto **[Sentinela](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa)** (Pipeline ETL com Docker, Python e PostgreSQL).
-- 🧠 Foco em: **Python, SQL, Docker, Pandas** e fundamentação em **Machine Learning**.
+### 👩‍💻 Sobre Mim
+Atualmente cursando o 3º Semestre de **Análise e Desenvolvimento de Sistemas**, com foco total em **Engenharia de Dados** e Cloud Computing. Minha jornada é pautada na construção de **pipelines automatizados**, escalabilidade e arquitetura robusta.
+
+- 🔬 Atualmente trabalhando no projeto **[Sentinela](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa)** (Pipeline ETL com Docker e PostgreSQL).
+- 🧠 Foco em: **Python, SQL, Docker, Pandas, Linux** e fundamentação em **Machine Learning**.
 - 🎯 Objetivo: Atuar como Engenheira de Dados em uma multinacional de tecnologia.
-- 💻 No meu setup: **Dell G15** rodando ambientes containerizados.
+- 💻 No meu setup: **Dell G15** rodando ambientes containerizados de alta performance.
 
 ---
 
-### 🛠️ Toolbox (Habilidades e Tecnologias)
+### 🛡️ Segurança e DataOps
+Diferente de scripts simples, este pipeline foi construído com foco em **boas práticas de mercado**:
+
+- **Segurança de Dados:** Uso de variáveis de ambiente (`.env`) para proteger credenciais de acesso, garantindo que senhas nunca sejam expostas.
+- **Containerização:** Uso do Docker para subir o banco de dados e a interface de forma rápida e isolada.
+- **Automação:** Coleta automática e carga no banco para criar um histórico real de cotações.
+
+---
+
+### 🛠️ Technical Toolbox (Habilidades e Tecnologias)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,7 +35,7 @@ Atualmente cursando o **3º Semestre de Análise e Desenvolvimento de Sistemas**
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-  
+
 ---
 
 ### 📊 GitHub Stats
@@ -33,11 +46,16 @@ Atualmente cursando o **3º Semestre de Análise e Desenvolvimento de Sistemas**
 </p>
 
 ---
-<p align="center">"Data is the new oil, but Engineering is the refinery." 🚀</p>
+
+### 📫 Vamos nos conectar?
+<p align="left">
+  <a href="https://www.linkedin.com/in/yasmimloppes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
-<p align="center">"In data we trust, in Docker we containerize." 🚀</p>
-### 👩‍💻 Sobre Mim
-Sou graduanda em **Análise e Desenvolvimento de Sistemas (3º Semestre)** com foco total em **Engenharia de Dados**. Minha jornada é guiada pela construção de pipelines inteligentes, automação e arquitetura de dados robusta.
+<p align="center">"Data is the new oil, but Engineering is the refinery." 🚀</p>
 
 - 🔭 **Projeto Atual:** Desenvolvendo o **[Sentinela](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa)**, um pipeline ETL automatizado com Python, Docker e PostgreSQL.
 - ⚙️ **Foco Técnico:** Ingestão de dados, Transformação (Pandas), Containerização (Docker) e Segurança (Variáveis de Ambiente).
