@@ -1,12 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0a192f&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20Specialist%20in%20the%20making&descSize=25&descAlignY=65&fontColor=64ffda" width="100%" />
-
-  <img src="https://i.pinimg.com/originals/82/3a/00/823a0026aa600020e908637376722363.gif" width="100%" alt="Data Server Art" />
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop" width="100%" alt="Banner Engenharia de Dados">
-</p>
-
-
 ---
 # Olá, eu sou a Yasmin! 👋
 
