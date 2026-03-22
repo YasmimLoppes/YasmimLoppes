@@ -21,36 +21,6 @@ Diferente de scripts simples, este pipeline foi construído com foco em **boas p
 - **Automação:** Coleta automática e carga no banco para criar um histórico real de cotações.
 
 ---
-
-### 🛠️ Technical Toolbox (Habilidades e Tecnologias)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
-### 📫 Vamos nos conectar?
-<p align="left">
-  <a href="https://www.linkedin.com/in/yasmimloppes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 <p align="center">"Data is the new oil, but Engineering is the refinery." 🚀</p>
 
 - 🔭 **Projeto Atual:** Desenvolvendo o **[Sentinela](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa)**, um pipeline ETL automatizado com Python, Docker e PostgreSQL.
