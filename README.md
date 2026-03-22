@@ -6,7 +6,35 @@
   <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop" width="100%" alt="Banner Engenharia de Dados">
 </p>
 
-# Olá, eu sou a Yasmin! 👋
+# Yasmin Lopes | Aspirante a Engenheira de Dados
+
+Aspirante a **Engenheira de Dados** focada em arquitetura de pipelines escaláveis e automação. Atualmente no 3º semestre de ADS, unindo fundamentação teórica à prática com ferramentas de mercado.
+
+---
+
+### 💻 Tech Stack & Workflow
+- **Linguagens:** Python (Pandas, SQLAlchemy, ETL)
+- **Banco de Dados:** PostgreSQL, SQL Server
+- **Infraestrutura:** Docker & Docker Compose (Ambientes Containerizados)
+- **Cloud & Ferramentas:** Linux, Git/GitHub, Gerenciamento de Variáveis de Ambiente
+
+---
+
+### 🚀 Projetos em Destaque
+- **[Projeto Sentinela](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa):** Pipeline ETL completo consumindo API financeira, com processamento em Python e persistência em PostgreSQL via Docker.
+- **DataTalksClub:** Em preparação para a certificação de **Machine Learning Engineering (2026)**.
+
+---
+
+### ⚙️ No meu setup
+Atualmente desenvolvendo e testando infraestruturas de dados em um **Dell G15**, explorando o máximo de performance em ambientes locais isolados com Docker.
+
+---
+
+### 📫 Conecte-se comigo
+[LinkedIn](https://www.linkedin.com/in/yasmimloppes/) • [E-mail](mailto:seu-email@exemplo.com)
+
+*"Construindo as fundações para decisões baseadas em dados."*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/may固定/may固定/master/assets/img/comp.gif" width="400" alt="Data Engineering Animation">
@@ -16,31 +44,7 @@
 Estudante de **Análise e Desenvolvimento de Sistemas (3º Semestre)** com foco total em **Engenharia de Dados**. Sou apaixonada por transformar dados brutos em insights valiosos através de pipelines automatizados e infraestruturas escaláveis.
 
 - 🔭 Atualmente trabalhando no projeto **Sentinela** (Pipeline de ETL com Docker e PostgreSQL).
-- ⚙️ Foco em: **Python, SQL, Docker, Pandas e Machine Learning Engineering**.
-- 🎯 Objetivo: Atuar como Engenheira de Dados em uma multinacional de tecnologia.
-- 💻 No meu setup: **Dell G15** rodando ambientes containerizados.
-
----
-
-### 🛠️ Toolbox (Tecnologias)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📊 GitHub Stats (O que os recrutadores amam ver)
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
+- ⚙️ Foco em: **Python, SQL, Docker, Pandas e Machine Learni
 ---
 <p align="center">"In data we trust, in Docker we containerize." 🚀</p>
 <br />
