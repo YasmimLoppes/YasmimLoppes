@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0a192f&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20Specialist%20in%20the%20making&descSize=25&descAlignY=65&fontColor=64ffda" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0a192f&height=250&section=header&text=Yasmim%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20Specialist%20in%20the%20making&descSize=25&descAlignY=65&fontColor=64ffda" width="100%" />
 ---
-# Olá, eu sou a Yasmin! 👋
+# Olá, eu sou a Yasmim! 👋
   
 ### 👩‍💻 Sobre Mim
 Atualmente cursando o 3º Semestre de **Análise e Desenvolvimento de Sistemas**, com foco total em **Engenharia de Dados** e Cloud Computing. Minha jornada é pautada na construção de **pipelines automatizados**, escalabilidade e arquitetura robusta.
