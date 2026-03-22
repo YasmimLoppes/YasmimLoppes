@@ -42,15 +42,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (3º Semestre)** com foco 
 </p>
 
 ---
-
-### 📫 Vamos nos conectar?
-<p align="left">
-  <a href="https://www.linkedin.com/in/yasmimloppes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 <p align="center">"In data we trust, in Docker we containerize." 🚀</p>
 <br />
 
