@@ -10,10 +10,46 @@
 ---
 # Olá, eu sou a Yasmin! 👋
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop" width="100%" alt="Banner Data Engineering Neon">
+### 👩‍💻 Sobre Mim
+Atualmente cursando o 3º Semestre de **Análise e Desenvolvimento de Sistemas**, com foco total em **Engenharia de Dados** e **Cloud Computing**. Sou apaixonada por transformar dados em insights através de pipelines automatizados e infraestruturas escaláveis.
+
+- 🔬 Atualmente trabalhando no projeto **Sentinela** (Pipeline ETL com Docker e PostgreSQL).
+- 🧠 Foco em: **Python, SQL, Docker, Pandas** e fundamentação em **Machine Learning**.
+- 🎯 Objetivo: Atuar como Engenheira de Dados em uma multinacional de tecnologia.
+- 💻 No meu setup: **Dell G15** rodando ambientes containerizados.
+
+---
+
+### 🛠️ Toolbox (Habilidades e Tecnologias)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+---
+
+### 📊 GitHub Stats (Métricas e Contribuições)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+<p align="left">
+  <a href="https://www.linkedin.com/in/yasmimloppes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">"In data we trust, in Docker we containerize." 🚀</p>
 ### 👩‍💻 Sobre Mim
 Sou graduanda em **Análise e Desenvolvimento de Sistemas (3º Semestre)** com foco total em **Engenharia de Dados**. Minha jornada é guiada pela construção de pipelines inteligentes, automação e arquitetura de dados robusta.
 
