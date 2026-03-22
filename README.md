@@ -2,23 +2,49 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0a192f&height=250&section=header&text=Yasmin%20Lopes&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20Specialist%20in%20the%20making&descSize=25&descAlignY=65&fontColor=64ffda" width="100%" />
 
   <img src="https://i.pinimg.com/originals/82/3a/00/823a0026aa600020e908637376722363.gif" width="100%" alt="Data Server Art" />
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop" width="100%" alt="Banner Engenharia de Dados">
+</p>
 
-  ### 🏗️ Data Architecture & Infrastructure
-  **3º Semestre - Análise e Desenvolvimento de Sistemas (ADS)**
-</div>
+# 🚀 Pipeline ETL: Automação de Cotação de Moedas com Docker
 
-<br />
+Olá! Eu sou a **Yasmin**, graduanda em ADS e aspirante a **Engenheira de Dados**. Este projeto demonstra um fluxo real de ingestão de dados financeiros, focado em **automação, segurança e containerização**.
 
-## 📋 Professional Overview
-Atualmente focada no desenvolvimento de ecossistemas de dados resilientes e escaláveis. Minha atuação centraliza-se na construção de **Pipelines de Dados (ETL/ELT)**, garantindo a integridade, disponibilidade e performance desde a ingestão até a camada de consumo. Busco aplicar as melhores práticas de **Data Modeling** e infraestrutura em nuvem para sustentar decisões baseadas em dados.
+---
 
-<br />
+### 🛠️ Tecnologias e Stack Técnica
+* **Linguagem:** Python 3.9+
+* **Processamento de Dados:** Pandas & SQLAlchemy
+* **Banco de Dados:** PostgreSQL (Relacional)
+* **Infraestrutura:** Docker & Docker Compose
+* **Gerenciamento de Banco:** Adminer (Interface Web)
+* **Segurança:** python-dotenv (Gestão de Variáveis de Ambiente)
 
-## 📚 Stack & Research Focus
-* ⚙️ **Data Infrastructure:** Arquitetura de microsserviços e orquestração de fluxos complexos.
-* ☁️ **Cloud Architecture:** Implementação de soluções em nuvem com foco em **AWS (S3, IAM, Lambda)**.
-* 🛡️ **Cybersecurity & Governance:** Aplicação de protocolos de segurança e conformidade no tráfego de dados.
-* 🐍 **Advanced Analytics:** Processamento de grandes volumes de dados utilizando **Python (Pandas/NumPy)** e SQL avançado.
+---
+
+### 💡 Diferenciais do Projeto
+Diferente de scripts simples, este pipeline foi construído pensando em padrões de mercado:
+
+1. **Segurança em Primeiro Lugar:** Implementação de variáveis de ambiente (`.env`) para proteger credenciais de acesso ao banco, garantindo que nenhuma senha seja exposta no histórico do GitHub.
+2. **Infraestrutura como Código:** Uso do Docker para subir o ecossistema completo (Banco + Interface) em segundos, garantindo que o projeto rode em qualquer máquina (inclusive no meu Dell G15!).
+3. **Persistência de Dados:** O script realiza o *Append* dos dados, criando um histórico real das variações cambiais no PostgreSQL para futuras análises de BI.
+4. **Tratamento de Erros:** Logs básicos implementados para monitorar falhas de conexão com a API ou com o banco de dados.
+
+---
+
+### 📂 Estrutura do Repositório
+* `scripts/`: Contém o motor do ETL (`etl_script.py`).
+* `docker-compose.yml`: Orquestração dos containers Postgres e Adminer.
+* `.gitignore`: Configurado para proteger o arquivo `.env`.
+* `requirements.txt`: Dependências do projeto.
+
+---
+
+### 🚀 Como Executar
+Confira o arquivo [INSTALL.md](./INSTALL.md) para o passo a passo de configuração e execução.
+
+---
+<p align="center">Conecte-se comigo no <a href="https://www.linkedin.com/in/yasmimloppes/">LinkedIn</a>!</p>
 
 <br />
 
