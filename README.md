@@ -9,45 +9,40 @@
 ### 👩‍💻 Sobre Mim
 Atualmente cursando o 3º Semestre de **Análise e Desenvolvimento de Sistemas** na **Unisanta**, com foco total em **Engenharia de Dados** e Cloud Computing. Minha jornada é pautada na construção de **pipelines de dados end-to-end**, automação de processos e arquitetura robusta.
 
-- 🔬 **Projeto Atual:** [Sentinela (Pipeline Clima)](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa) — Sistema de **ETL (Extract, Transform, Load)** automatizado consumindo APIs reais.
-- 🧠 **Tech Stack:** Domínio em **Python (Pandas, NumPy, Requests)**, **SQL Avançado (DML/DDL)**, **Docker**, **Linux (WSL2)** e **AWS S3**.
-- 🎯 **Objetivo:** Atuar como Engenheira de Dados em ambientes de alta escala, focando em eficiência operacional e governança.
-- 💻 **Ambiente:** Desenvolvimento de infraestruturas de dados de alta performance utilizando ambientes containerizados.
+- 🔬 **Foco Atual:** Desenvolvimento de arquiteturas modulares (ETL) e conformidade de dados (LGPD).
+- 🧠 **Tech Stack:** Domínio em **Python (Pandas, NumPy, Requests)**, **SQL Avançado**, **Docker** e **SQLite/PostgreSQL**.
+- 🎯 **Objetivo:** Atuar como Engenheira de Dados, focando em eficiência operacional, governança e escalabilidade.
+- 💻 **Ambiente:** Desenvolvimento de infraestruturas de dados utilizando ambientes containerizados e WSL2.
 
 ---
 
 ### 🛡️ Segurança e DataOps
 Diferente de scripts simples, meus projetos são construídos com foco em **boas práticas de mercado**:
 
-- **Segurança de Dados:** Uso de variáveis de ambiente (`.env`) para proteção de credenciais críticas.
-- **Containerização:** Implementação de **Docker** e **Docker Compose** para garantir a reprodutibilidade e isolamento do ambiente.
-- **Automação:** Fluxos de ingestão automática para criação de históricos de dados estruturados.
+- **Segurança de Dados:** Implementação de **Hashing (SHA-256)** para proteção de PII e conformidade com a **LGPD**.
+- **Arquitetura Modular:** Separação clara entre extração, transformação e carga (E-T-L) para facilitar a manutenção.
+- **Automação:** Fluxos de ingestão automática via API para criação de históricos de dados estruturados.
 
 ---
 
 ### 💻 Technical Toolbox (Stack Tecnológica)
 
 #### 🐍 Linguagens e Dados
-- **Python:** Pandas, NumPy, Requests, Matplotlib, Seaborn.
+- **Python:** Pandas, NumPy, Requests, Plotly, Hashlib.
 - **SQL:** Consultas complexas, modelagem relacional, DML/DDL.
-- **Processos:** ETL/ELT, Web Scraping, Ingestão de APIs.
+- **Processos:** ETL/ELT modular, Ingestão de APIs Reais, Data Cleaning.
 
 #### ☁️ Infraestrutura e Cloud
-- **Cloud:** AWS Cloud Storage (S3).
 - **DevOps:** Docker (Gestão de Containers), Git/GitHub, WSL2 (Linux).
-- **Ambiente:** Monitoramento de hardware e automação de sistemas.
-
-#### 📊 Visualização e Gestão
-- **BI & Analytics:** Tableau Desktop, Dashboards de KPIs Interativos.
-- **Metodologias:** Ágeis (Scrum/Kanban), Storytelling de Dados.
+- **Cloud:** AWS (S3), Integração de ambientes locais com nuvem.
 
 ---
 
 ### 🚀 Featured Data Projects
 
-- **[Pipeline de Dados Climáticos (API to SQL)](https://github.com/YasmimLoppes/etl-pipeline-docker-bolsa):** Desenvolvimento de um fluxo automatizado em **Python** para extração de dados de API pública, limpeza com **Pandas** e carga em banco de dados **SQL**, totalmente containerizado com **Docker**.
-- **Kabum Price Monitor:** Pipeline de extração automatizada via **Web Scraping** para monitoramento de hardware, com orquestração de dados e armazenamento em **AWS S3**.
-- **SAD Logística:** Desenvolvimento de ecossistema analítico para monitoramento de fluxos logísticos e criação de dashboards estratégicos em **Tableau**.
+- **[📈 MarketWatch-Data-Pipeline](https://github.com/YasmimLoppes/MarketWatch-Data-Pipeline):** Pipeline de dados modular em **Python** para monitoramento financeiro em tempo real. Utiliza **Pandas** para transformação e **SQL** para persistência.
+- **[🛡️ SafeFlow-Data-Pipeline](https://github.com/YasmimLoppes/SafeFlow-Data-Pipeline):** Sistema de processamento seguro de transações com foco em **LGPD**, utilizando técnicas de Hashing e dashboards de auditoria com **Plotly**.
+- **[🏢 SAD Logística](https://github.com/YasmimLoppes/SAD_Logistica):** Ecossistema analítico para monitoramento de fluxos logísticos e criação de dashboards estratégicos.
 
 ---
 
@@ -71,7 +66,7 @@ Diferente de scripts simples, meus projetos são construídos com foco em **boas
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Networking Profissional:
 <div align="center">
   <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -85,5 +80,5 @@ Diferente de scripts simples, meus projetos são construídos com foco em **boas
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=30&section=footer" width="100%"/>
-  <p><i>"Engineering is about making things work. Data Engineering is about making data work for everyone."</i></p>
+  <p><i>"Data Engineering is about making data work for everyone."</i></p>
 </div>
