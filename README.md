@@ -7,44 +7,57 @@
 # Olá, eu sou a Yasmim! 👋
 
 ### 👩‍💻 Sobre Mim
-Atualmente cursando o 3º Semestre de **Análise e Desenvolvimento de Sistemas** na **Unisanta**, com foco total em **Engenharia de Dados**.
+Atualmente cursando o 3º Semestre de **Análise e Desenvolvimento de Sistemas** na **Unisanta**, com foco total em **Engenharia de Dados** e Cloud Computing. Minha jornada é pautada na construção de **pipelines de dados end-to-end**, automação de processos e arquitetura robusta.
 
-- 🚀 **Foco Atual:** Pipelines de dados modulares (ETL) e conformidade (LGPD).
-- 🧠 **Tech Stack:** Python (Pandas/Requests), SQL, Docker e PostgreSQL.
-
----
-
-### 🚀 Projetos em Destaque
-
-- **[📈 MarketWatch-Data-Pipeline](https://github.com/YasmimLoppes/MarketWatch-Data-Pipeline):** Monitoramento financeiro em tempo real com Python e SQL.
-- **[🛡️ SafeFlow-Data-Pipeline](https://github.com/YasmimLoppes/SafeFlow-Data-Pipeline):** Processamento seguro de transações focado em LGPD.
+- 🔬 **Foco Atual:** Desenvolvimento de arquiteturas modulares (ETL) e conformidade de dados (LGPD).
+- 🧠 **Tech Stack:** Domínio em **Python (Pandas, NumPy, Requests)**, **SQL Avançado**, **Docker** e **SQLite/PostgreSQL**.
+- 🎯 **Objetivo:** Atuar como Engenheira de Dados, focando em eficiência operacional, governança e escalabilidade.
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 🛡️ Segurança e DataOps
+Diferente de scripts simples, meus projetos são construídos com foco em **boas práticas de mercado**:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" />
-</p>
+- **Segurança de Dados:** Implementação de **Hashing (SHA-256)** para proteção de PII e conformidade com a **LGPD**.
+- **Arquitetura Modular:** Separação clara entre extração, transformação e carga (E-T-L) para facilitar a manutenção.
+- **Automação:** Fluxos de ingestão automática via API para criação de históricos de dados estruturados.
 
 ---
 
-### 🤝 Networking Profissional:
-<p align="left">
+### 🚀 Featured Data Projects
+
+- **[📈 MarketWatch-Data-Pipeline](https://github.com/YasmimLoppes/MarketWatch-Data-Pipeline):** Pipeline de dados modular em **Python** para monitoramento financeiro em tempo real. Utiliza **Pandas** para transformação e **SQL** para persistência.
+- **[🛡️ SafeFlow-Data-Pipeline](https://github.com/YasmimLoppes/SafeFlow-Data-Pipeline):** Sistema de processamento seguro de transações com foco em **LGPD**, utilizando técnicas de Hashing e dashboards de auditoria com **Plotly**.
+
+---
+
+<div align="center">
+  <h3>📈 Metrics & Contributions</h3>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true&animation=true" width="100%" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" height="180em" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 Networking Profissional:</h3>
+  
   <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yasmim_loppes@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-FF4500?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
-</p>
+</div>
 
 <br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=30&section=footer" width="100%"/>
+  <p><i>"Data Engineering is about making data work for everyone."</i></p>
 </div>
