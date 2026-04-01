@@ -25,49 +25,27 @@ Diferente de scripts simples, meus projetos são construídos com foco em **boas
 
 ---
 
-### 💻 Technical Toolbox (Stack Tecnológica)
-
-#### 🐍 Linguagens e Dados
-- **Python:** Pandas, NumPy, Requests, Plotly, Hashlib.
-- **SQL:** Consultas complexas, modelagem relacional, DML/DDL.
-- **Processos:** ETL/ELT modular, Ingestão de APIs Reais, Data Cleaning.
-
-#### ☁️ Infraestrutura e Cloud
-- **DevOps:** Docker (Gestão de Containers), Git/GitHub, WSL2 (Linux).
-- **Cloud:** AWS (S3), Integração de ambientes locais com nuvem.
-
----
-
 ### 🚀 Featured Data Projects
 
 - **[📈 MarketWatch-Data-Pipeline](https://github.com/YasmimLoppes/MarketWatch-Data-Pipeline):** Pipeline de dados modular em **Python** para monitoramento financeiro em tempo real. Utiliza **Pandas** para transformação e **SQL** para persistência.
 - **[🛡️ SafeFlow-Data-Pipeline](https://github.com/YasmimLoppes/SafeFlow-Data-Pipeline):** Sistema de processamento seguro de transações com foco em **LGPD**, utilizando técnicas de Hashing e dashboards de auditoria com **Plotly**.
-- **[🏢 SAD Logística](https://github.com/YasmimLoppes/SAD_Logistica):** Ecossistema analítico para monitoramento de fluxos logísticos e criação de dashboards estratégicos.
 
 ---
 
 ### 📈 Metrics & Contributions
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true&animation=true" width="100%" />
-</p>
+![Grafico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" height="180em" />
-</p>
+![Estatisticas GitHub](https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=tokyonight&hide=html,css&hide_border=true)
 
 ---
 
 ### 🤝 Networking Profissional:
-<p align="left">
-  <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yasmim_loppes@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-FF4500?style=for-the-badge&logo=icloud&logoColor=white" />
-  </a>
-</p>
+
+[<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yasmim-loppes/)
+[<img src="https://img.shields.io/badge/EMAIL-FF4500?style=for-the-badge&logo=icloud&logoColor=white">](mailto:yasmim_loppes@icloud.com)
 
 <br />
 
