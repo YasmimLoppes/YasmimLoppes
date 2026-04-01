@@ -31,9 +31,9 @@ Diferente de scripts simples, meus projetos são construídos com foco em **boas
 
 ---
 
-### 📈 Metrics & Contributions
-
 <div align="center">
+  <h3>📈 Metrics & Contributions</h3>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true&animation=true" width="100%" />
   
   <br/>
@@ -58,4 +58,6 @@ Diferente de scripts simples, meus projetos são construídos com foco em **boas
 <br />
 
 <div align="center">
-  <img src="
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a192f&height=100&section=footer" width="100%"/>
+  <p><i>"Data Engineering is about making data work for everyone."</i></p>
+</div>
