@@ -47,34 +47,27 @@ Diferente de scripts simples, meus projetos são construídos com foco em **boas
 ---
 
 ### 📈 Metrics & Contributions
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true&animation=true" width="100%" />
-</div>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=transparent&title_color=64ffda&text_color=ffffff&icon_color=64ffda&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a192f" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=transparent&hide=html,css&title_color=64ffda&text_color=ffffff&bar_color=64ffda&hide_border=true&bg_color=0a192f" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasmimLoppes&theme=react-dark&bg_color=0a192f&color=64ffda&line=64ffda&point=ffffff&area=true&hide_border=true&animation=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasmimLoppes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimLoppes&layout=compact&theme=tokyonight&hide=html,css&hide_border=true" height="180em" />
+</p>
 
 ---
 
-### 📫 Networking Profissional:
-<div align="center">
+### 🤝 Networking Profissional:
+<p align="left">
   <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yasmim_loppes@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-FF4500?style=flat-square&logo=icloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-FF4500?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
-</div>
+</p>
 
 <br />
 
