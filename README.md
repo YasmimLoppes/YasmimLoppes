@@ -7,7 +7,7 @@
 # Olá, eu sou a Yasmim! 👋
 
 ### 👩‍💻 Sobre Mim
-Atualmente cursando o 3º Semestre de **Análise e Desenvolvimento de Sistemas** na **Unisanta**, com foco total em **Engenharia de Dados** e Cloud Computing. Minha jornada é pautada na construção de **pipelines de dados end-to-end**, automação de processos e arquitetura robusta.
+Graduanda em **Análise e Desenvolvimento de Sistemas** na **Unisanta**, com foco total em **Engenharia de Dados** e Cloud Computing. Minha jornada é pautada na construção de **pipelines de dados end-to-end**, automação de processos e arquitetura robusta.
 
 - 🔬 **Foco Atual:** Desenvolvimento de arquiteturas modulares (ETL) e conformidade de dados (LGPD).
 - 🧠 **Tech Stack:** Domínio em **Python (Pandas, NumPy, Requests)**, **SQL Avançado**, **Docker** e **SQLite/PostgreSQL**.
