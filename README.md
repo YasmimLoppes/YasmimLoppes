@@ -50,7 +50,7 @@ Diferente de scripts simples, meus projetos são construídos com foco em **boas
   <a href="https://www.linkedin.com/in/yasmim-loppes/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yasmim_loppes@icloud.com" target="_blank">
+  <a href="mailto:yasmimlopes.dados@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-FF4500?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
 </div>
